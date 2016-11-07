@@ -2,8 +2,7 @@
 ======================
 This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to provide propeelant to the existing Liquid Fuelled Engine(LFE) which requires a theoretical chamber pressure of ~375 psi.
 
-# Project requirements
-----------------------
+##Project requirements
 * design a custom inverter/power supply system
 * Design and ground test a prototype electric pump system that delivers a reasonable NPSH at ~0.04 ft^3/s flowrate of IPA and ~0.03 ft^3/s flowrate of LOX
 	* This is not a flight system however future iterations will be so make design decisions with future weight optimization in mind
@@ -17,10 +16,10 @@ This is an exploratory project looking into the possibility of using electric fu
 * Complete a design tool to define a pump based on specific parameter input.
 * Make a better pump than Boston U
 
-###Erin’s hopes & dreams:### 
+###Erin’s hopes & dreams:
 * Design a test apparatus that is compatible with the existing LETS
 * Contains sensors and safety emergency shutdown provisions.
-* Prototype testing to be performed if there is time
+* Prototype testing to be performed if there is time:
 	* Cold flow test w/ water. 
 	* Cold flow test w/ LN2.
 	* HOT FIRE!!!((super secret hidden bonus level))
