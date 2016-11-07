@@ -4,7 +4,7 @@ This is an exploratory project looking into the possibility of using electric fu
 
 ##Project requirements
 * Design a custom inverter/power supply system
-* Design and ground test a prototype electric pump system that delivers a reasonable NPSH at ~$0.04 ft^3/s$ flowrate of IPA and ~$0.03 ft^3/s$ flowrate of LOX
+* Design and ground test a prototype electric pump system that delivers a reasonable NPSH at ~0.04 ft^3/s flowrate of IPA and ~0.03 ft^3/s flowrate of LOX
 	* This is not a flight system however future iterations will be so make design decisions with future weight optimization in mind
 * Prototype will be designed for the existing LFE with a design chamber pressure of ~375psi (this chamber pressure will be confirmed by hot fire test asap)
 * The pump must be constructed from COTS components
