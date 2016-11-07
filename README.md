@@ -1,9 +1,30 @@
 # Electric Feed System
-This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to run a []kN liquid fueled rocket engine
+======================
+This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to provide propeelant to the existing Liquid Fuelled Engine(LFE) which requires a theoretical chamber pressure of ~375 psi.
 
 # Project requirements
-* Design build and test a pump system capable of delivering the required pressure head to a bi-propellant liquid fuelled rocket engine. 
-* Develop a comprehensive design tool that can be used to characterize future itterations of the pump project.
+----------------------
+* design a custom inverter/power supply system
+* Design and ground test a prototype electric pump system that delivers a reasonable NPSH at ~0.04 ft^3/s flowrate of IPA and ~0.03 ft^3/s flowrate of LOX
+	* This is not a flight system however future iterations will be so make design decisions with future weight optimization in mind
+* Prototype will be designed for the existing LFE with a design chamber pressure of ~375psi (this chamber pressure will be confirmed by hot fire test asap)
+* The pump must be constructed from COTS components
+* Work in parallel with the Carbon Fiber Propellant Tanks(CFPT) team to optimise the pressure requirements for both groups. Pump successfully suppresses cavitation at whatever pressure the CFPT team is able to deliver to us.
+* The following documents will be produced:
+	* LOX handling procedures and SOP documents
+	* Design methodology and process
+	* Analytical design comparison between blowdown system to EFS system to determine the validity of pursuing the EFS technology.
+* Complete a design tool to define a pump based on specific parameter input.
+* Make a better pump than Boston U
+
+###Erin’s hopes & dreams:### 
+* Design a test apparatus that is compatible with the existing LETS
+* Contains sensors and safety emergency shutdown provisions.
+* Prototype testing to be performed if there is time
+	* Cold flow test w/ water. 
+	* Cold flow test w/ LN2.
+	* HOT FIRE!!!((super secret hidden bonus level))
+
 
 
 # Important links
