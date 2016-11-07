@@ -1,6 +1,6 @@
 # Electric Feed System
 ======================
-This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to provide propeelant to the existing Liquid Fuelled Engine(LFE) which requires a theoretical chamber pressure of ~375 psi.
+This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to provide propelant to the existing Liquid Fuelled Engine(LFE) which requires a theoretical chamber pressure of ~375 psi.
 
 ##Project requirements
 * design a custom inverter/power supply system
