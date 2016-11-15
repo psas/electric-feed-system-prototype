@@ -1,0 +1,100 @@
+\documentclass[11pt,twoside,a4paper,openright]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\definecolor{aaublue}{RGB}{33,26,82}
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{%
+  font=footnotesize,
+  labelfont=bf 
+  }
+\usepackage{array,booktabs}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{framed}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[framed,amsmath,thmmarks]{ntheorem}
+\usepackage{dblfloatfix}
+
+\usepackage[
+  left=2mm,
+  right=2mm,
+  bottom=1mm,
+  ]{geometry}
+\usepackage{titlesec}
+\titleformat*{\section}{\normalfont\Large\bfseries
+    }
+\titleformat*{\subsection}{\normalfont\large\bfseries
+    }
+\titleformat*{\subsubsection}{\normalfont\normalsize\bfseries
+    }
+%\titleformat*{\paragraph}{\normalfont\normalsize\bfseries}}
+%\titleformat*{\subparagraph}{\normalfont\normalsize\bfseries}}
+
+
+% configure section titles
+\usepackage{titlesec}
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+\begin{document}
+
+\begin{titlepage}
+
+	\centering
+	{\huge\bfseries Electric Feed System\par}
+	\vspace{0.5cm}
+	{\scshape\LARGE Portland State University \par}
+	\vspace{0.5cm}
+	{\scshape\Large Title \par}% Insert Document title here
+	\vspace{1cm}
+		\includegraphics[width=0.5\textwidth]{example-image-1x1}\par\vspace{1cm}
+
+	{\Large\itshape 	{Jorden Roland, 
+John Froehlich,\\
+James Luce, 
+Mimi Shang,\\
+John Talik, 
+Rawand Rasheed\par}}
+	\vfill
+	supervised by:\par
+    \textsc{Erin Schmidt}\\
+	and\\
+	\textsc{Andrew Greenberg}
+
+	\vspace{3cm}
+
+% Bottom of the page
+
+\centering
+\begin{table*}[!b]
+
+
+  \begin{tabular}{  p{2cm}  m{15.5cm}  p{3cm}  }
+  
+\begin{minipage}{.3\textwidth}
+      \includegraphics[width=0.3\textwidth]{logo.png}
+    \end{minipage}
+&
+ \centering
+{Portland State Aerospace Society}\par
+{Fariborz Maseeh College of Engineering and Computer Science}\par
+{\large \today \par}
+&	
+\begin{minipage}{.3\textwidth}
+      \includegraphics[width=0.3\textwidth]{psas_insignia.png}
+    \end{minipage}
+    
+\end{tabular}
+\end{table*}
+
+\end{titlepage}
+
+
+
+\end{document}
