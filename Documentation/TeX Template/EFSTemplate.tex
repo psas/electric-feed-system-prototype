@@ -7,6 +7,7 @@
 \usepackage{xcolor}
 \definecolor{aaublue}{RGB}{33,26,82}
 \usepackage{graphicx}
+\usepackage{tabularx}
 \usepackage{caption}
 \captionsetup{%
   font=footnotesize,
@@ -20,6 +21,7 @@
 \usepackage{amssymb}
 \usepackage[framed,amsmath,thmmarks]{ntheorem}
 \usepackage{dblfloatfix}
+
 
 \usepackage[
   left=2mm,
@@ -43,6 +45,20 @@
 \titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
 
 \begin{document}
+% custom commands
+\newcommand{\windef}[1]{\subsection*{\underline{DEF:} \normalsize{#1}}} % definition
+\newcommand{\winex}[1]{\subsection*{\underline{EX:} \normalsize{#1}}} % example
+\newcommand{\winsec}[1]{\section*{\underline{\textbf{#1}}}} % section
+\newcommand{\winres}[1]{\begin{math}\Rightarrow\left\{\begin{matrix}#1\end{matrix}\right.\end{math}\hspace{0.2cm}} % result
+\newcommand{\winsys}[1]{\begin{math}\left\{\begin{matrix}#1\end{matrix}\right.\end{math}} % system
+\newcommand{\winero}[1]{\begin{math}\xrightarrow{#1}\end{math}} % row operation
+\newcommand{\winmat}[1]{\begin{math}\begin{bmatrix}#1\end{bmatrix}\end{math}} % matrix
+\newcommand{\winsub}[1]{\subsection*{$\star$\hspace{0.2cm} #1}} % dot
+\newcommand{\step}[1]{\begin{math}\xrightarrow{\text{#1}}\end{math}} % step in a process
+\newcommand{\winrtwo}{\begin{math}\text{R}^\text{2}\end{math}}
+\newcommand{\winrthree}{\begin{math}\text{R}^\text{3}\end{math}}
+\newcommand{\wineq}[1]{\begin{equation}\notag#1\end{equation}}
+\newcommand{\winans}[1]{\begin{equation}\underline{\underline{\notag\boldsymbol{#1}}}\Leftarrow\end{equation}}
 
 \begin{titlepage}
 
@@ -94,7 +110,25 @@ Rawand Rasheed\par}}
 \end{table*}
 
 \end{titlepage}
+\newgeometry{top=10mm,bottom=10mm,right=15mm,left=15mm}
+\newpage
 
+\winsec{Nomenclature:}
 
+\centering{
+\begin{tabularx}{1.5\textwidth}{c c c c}\par
+\textbf{Symbol:} & \textbf{Name:} & \textbf{Formula:} & \textbf{Dependecies:}\par
+\end{tabularx}\par
+}
+	
+
+\winsec{Abstract:}   %comment out this line and the next if there is no abstract!!!
+\newpage
+\winsec{Introduction:}
+\winsec{Model:}
+\winsec{Results:}
+\winsec{Conclusion:}
+\winsec{Acknowledgments:}
+\winsec{References:}
 
 \end{document}
