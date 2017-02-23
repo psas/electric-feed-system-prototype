@@ -2,6 +2,9 @@
 ======================
 This is an exploratory project looking into the possibility of using electric fuel/oxydizer pumps to generate inlet pressure required to provide propelant to the existing Liquid Fuelled Engine(LFE) which requires a theoretical chamber pressure of ~375 psi.
 
+![alt text](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/Block_diag.PNG "Block Diagram of proposed electric feed system")
+
+
 ##Project requirements
 * Design a custom inverter/power supply system
 * Design and ground test a prototype electric pump system that delivers a reasonable NPSH at ~0.04 ft^3/s flowrate of IPA and ~0.03 ft^3/s flowrate of LOX
