@@ -22,6 +22,8 @@
 "impeller secondary vane opening diameter"= 10mm
 "impeller bolt surface height" = 5mm
 "impeller bolt surface diameter" = 8mm
+"impeller boss depth" = 5mm
+"impeller dowel diameter" = 2mm
 
 "motor to housing distance"= 60mm
 "motor mount pattern diameter"= 30mm
@@ -37,9 +39,9 @@
 "housing bearing seat lip thickness" = 2mm
 "housing base thickness"= "housing bearing seat lip thickness" + "seal depth" + "bearing depth"
 
-"housing top impeller vertical clearance"= 1mm
-"housing top impeller horizontal clearance"= 1mm
-"housing top impeller bottom clearance"= 2mm
+"housing top impeller vertical clearance"= .5mm
+"housing top impeller horizontal clearance"= .5mm
+"housing top impeller bottom clearance"= 1mm
 "housing top impeller cavity height"= "housing top impeller bottom clearance" + "impeller base center thickness" + "impeller vane inner height" + "housing top impeller vertical clearance"
 "housing top impeller cavity diameter"= 2 * "housing top impeller horizontal clearance" + "impeller base outer diameter"
 "housing top impeller cavity tip height"= "housing top impeller bottom clearance" + "housing top impeller vertical clearance" + "impeller base outer thickness" + "impeller vane outer height"
@@ -73,6 +75,9 @@
 "coupler shaft seal section diameter" = "seal ID"
 "coupler shaft seal section length" = "housing base thickness"+"housing top impeller bottom clearance"-"bearing depth"
 "coupler shaft impeller section diameter" = 6mm
-"coupler shaft impeller section length" = "impeller bolt surface height"-.5mm
+"coupler shaft impeller section length" = "impeller boss depth"+"impeller base center thickness" - 1mm
 "coupler shaft impeller screw hole diameter" = "motor mount to housing m4 screw hole diamater"
 "coupler shaft impeller screw hole depth" = 10mm
+
+"impeller boss diameter" = "coupler shaft impeller section diameter"+2*5mm
+"impeller dowel length" = 2mm*2 + "coupler shaft impeller section diameter"
