@@ -21,12 +21,15 @@
 \usepackage{amssymb}
 \usepackage[framed,amsmath,thmmarks]{ntheorem}
 \usepackage{dblfloatfix}
+\usepackage{adjustbox}
+\usepackage{layouts}
 
 
 \usepackage[
-  left=2mm,
-  right=2mm,
+  left=0.5in,
+  right=0.5in,
   bottom=1mm,
+  top= 1in,
   ]{geometry}
 \usepackage{titlesec}
 \titleformat*{\section}{\normalfont\Large\bfseries
@@ -59,17 +62,18 @@
 \newcommand{\winrthree}{\begin{math}\text{R}^\text{3}\end{math}}
 \newcommand{\wineq}[1]{\begin{equation}\notag#1\end{equation}}
 \newcommand{\winans}[1]{\begin{equation}\underline{\underline{\notag\boldsymbol{#1}}}\Leftarrow\end{equation}}
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} % Create horizontal rule command with 1 argument of height
 
 \begin{titlepage}
 
+\vfil
 	\centering
-	{\huge\bfseries Electric Feed System\par}
+	{\huge\bfseries PSAS Liquid Propellant Rocket Engine
+Electric Feed System\par}
 	\vspace{0.5cm}
-	{\scshape\LARGE Portland State University \par}
-	\vspace{0.5cm}
-	{\scshape\Large Title \par}% Insert Document title here
-	\vspace{1cm}
-		\includegraphics[width=0.5\textwidth]{example-image-1x1}\par\vspace{1cm}
+	{\scshape\Large Conceptual Design Progress Report\par}% Insert Document title here
+
+\vspace{2cm}
 
 	{\Large\itshape 	{Jorden Roland, 
 John Froehlich,\\
@@ -77,37 +81,50 @@ James Luce,
 Mimi Shang,\\
 John Talik, 
 Rawand Rasheed\par}}
-	\vfill
-	supervised by:\par
+
+\vspace{3cm}
+Faculty advisor:\par
+    \textsc{Ra\'{u}l Bayo\'{a}n Cal}\par
+	Supervised by:\par
     \textsc{Erin Schmidt}\\
 	and\\
 	\textsc{Andrew Greenberg}
 
 	\vspace{3cm}
+	
+%textwidth in cm: \printinunitsof{cm}\prntlen{\textwidth}
 
-% Bottom of the page
+\begin{table*}[!t]
 
-\centering
-\begin{table*}[!b]
-
-
-  \begin{tabular}{  p{2cm}  m{15.5cm}  p{3cm}  }
+  \begin{tabular}{  p{2cm}  m{13.20337cm}  p{2cm}  }
   
+\\ \hline
+
 \begin{minipage}{.3\textwidth}
+ \begin{flushleft}
       \includegraphics[width=0.3\textwidth]{logo.png}
-    \end{minipage}
+ \end{flushleft}
+\end{minipage}
+
 &
- \centering
-{Portland State Aerospace Society}\par
-{Fariborz Maseeh College of Engineering and Computer Science}\par
-{\large \today \par}
+
+\begin{center}
+	{Portland State Aerospace Society}\par
+	{Fariborz Maseeh College of Engineering and Computer Science}\par
+	{\large \today \par}
+	\end{center}
+
 &	
+
 \begin{minipage}{.3\textwidth}
+%\begin{flushright}
       \includegraphics[width=0.3\textwidth]{psas_insignia.png}
-    \end{minipage}
-    
+%      \end{flushright}
+    \end{minipage}\\ \hline
+   
 \end{tabular}
 \end{table*}
+
 
 \end{titlepage}
 \newgeometry{top=10mm,bottom=10mm,right=15mm,left=15mm}
@@ -123,6 +140,7 @@ Rawand Rasheed\par}}
 	
 
 \winsec{Abstract:}   %comment out this line and the next if there is no abstract!!!
+
 \newpage
 \winsec{Introduction:}
 \winsec{Model:}
