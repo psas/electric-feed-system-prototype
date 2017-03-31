@@ -3,14 +3,17 @@
 "bearing ID"= 10mm
 "bearing depth"= 9mm
 "bearing inner race thickness"= 1mm
+"bearing bore" = "bearing depth" + 1mm
 
 "small seal OD" = 20mm
 "small seal ID"= 8mm
-"small seal depth" = 6mm
+"small seal depth" = 8.3mm
+"small seal bore" = "small seal depth" + 1mm
 
-"big seal OD" = 30mm
+"big seal OD" = 27mm
 "big seal ID"= 15mm
-"big seal depth"= 8mm
+"big seal depth"= 8.3mm
+"big seal bore" = "big seal depth" + 1mm
 
 "z" = 12
 "de" = 0.426in
@@ -34,7 +37,7 @@
 "impeller bottom clearance"= .5mm
 
 "impeller base thickness"= 2mm
-"impeller boss depth" = 14mm
+"impeller boss depth" = "shaft impeller section length" + 3mm + "impeller bolt head depth" - "impeller base thickness"
 "impeller boss diameter" = "big seal ID"
 "impeller dowel diameter" = 2mm
 "impeller bolt head diameter" = 7.5mm
@@ -45,15 +48,15 @@
 "impeller screw hole bore" = 4mm
 
 "shaft impeller screw hole diameter" = "impeller screw hole bore"
-"shaft impeller section length" = "impeller shaft bore depth"
+"shaft impeller section length" = "big seal plate thickness" + "impeller bottom clearance" + "impeller base thickness" - "impeller bolt head depth" - 3mm
 "shaft impeller screw hole depth" = "shaft impeller section length"-"impeller dowel diameter"-2mm
 "shaft impeller section diameter" = "impeller shaft bore"
 
 "shaft seal section diameter"="small seal ID"
-"shaft seal section length"="small seal depth" + 2mm
+"shaft seal section length"="small seal bore" + 2mm
 
 "shaft bearing section diameter" = "bearing ID"
-"shaft bearing section length" = "bearing depth"
+"shaft bearing section length" = "bearing bore"
 "shaft bearing stop diameter" = "bearing ID" + 2mm
 "shaft bearing stop length" = 2mm
 
@@ -70,17 +73,17 @@
 
 "bearing plate bearing stop ID" = "bearing OD" - 4mm
 "bearing plate bearing stop depth" = 3mm
-"bearing plate thickness" = "bearing depth" + "bearing plate bearing stop depth"
+"bearing plate thickness" = "bearing bore" + "bearing plate bearing stop depth"
 
 "small seal plate lip depth" = "shaft bearing stop length" + 1mm
 "small seal plate lip ID" = "small seal OD" - 3mm
-"small seal plate thickness" = "small seal plate lip depth" + "small seal depth"
+"small seal plate thickness" = "small seal plate lip depth" + "small seal bore"
 
-"big seal plate lip depth" = 3mm
-"big seal plate thickness" = "shaft bearing stop length" + "shaft seal section length" + "impeller boss depth" - "impeller bottom clearance"-"small seal plate thickness"
-"big seal plate pressure hole diameter" = 2mm
-"big seal plate pressure tap diameter" = 5mm
-"big seal plate pressure tap depth" = 8mm
+"big seal plate lip depth" = 8mm
+"big seal plate thickness" = "big seal plate lip depth" + "big seal bore"
+"big seal plate pressure hole diameter" = .078125 'this is 5/64 drill 
+"big seal plate pressure tap diameter" = .34375in 'this is 11/32 drill for a 1/8 ANPT tap
+"big seal plate pressure tap depth" = 9mm
 
 "impeller cavity center height"= "impeller bottom clearance" + "impeller upper clearance" + "final impeller center height"
 "impeller cavity diameter"= 2 * "impeller horizontal clearance" + "d2"
@@ -88,18 +91,19 @@
 
 "impeller housing bolt count" = 8
 "impeller housing bolt diameter" = 6mm
-"impeller housing bolt pattern diameter" = 2.75in
+"impeller housing bolt pattern diameter" = 3in
 "impeller housing o-ring channel height"= 1.5mm
 "impeller housing o ring channel width"= 1.5mm
 "impeller housing o-ring diameter" = 2in
-"impeller housing threaded inlet diameter" = 14mm
-"impeller housing threaded inlet depth"= 8mm
+"impeller housing threaded inlet diameter" = 0.71875in 'this is the 23/32 drill size for 1/2 in npt fitting
+"impeller housing threaded inlet depth"= 20mm
 "impeller housing thickness"= "impeller housing threaded inlet depth" + "impeller cavity center height"+ 4mm
-"impeller housing exit threaded diameter"= 8mm
-"impeller housing exit threaded depth"= 8mm
-"impeller housing diameter" = 3.5in
+"impeller housing exit threaded diameter"= 0.578125in 'this is the 37/64 drill size for 3/8 npt fitting
+"impeller housing exit threaded depth"= 12mm
+"impeller housing diameter" = 4in
 "impeller housing diffuser conical angle"=10
 "impeller housing diffuser tangent angle"=20
+"impeller housing diffuser length" = 1.5in
 "impeller housing outlet purchase" = 5mm
 
 "motor to housing distance" = "motor shaft pride" + "shaft coupler section length" - "bearing plate bearing stop depth" + 2mm
