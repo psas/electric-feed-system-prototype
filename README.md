@@ -41,35 +41,35 @@ Project requirements
 	3. HOT FIRE!!! ((super secret hidden bonus level))
 	
 # Experiment design:
-	## Component checklist:
-		### Structure:
-			[x] Test platform 
-			[x] Battery box
-			[ ] Tank stand
-		### Pump unit:
-			[ ] Test Impellers
-			[ ] Impeller dowel
-			[ ] Impeller shaft
-			[ ] Bearing plate
-			[ ] Housing base
-			[ ] Housing center
-			[ ] Housing top
-			[ ] Seal plates
-			[ ] Motor mount
-			[ ] Shaft coupler
-			[ ] Various fasteners
-			[ ] Seals and bearings
-		### Electrical:
-			[x] Motor
-			[x] ESC
-			[x] Batteries
-			[ ] Assembled wiring harness
-			[ ] DAQ system
-			[ ] Assembled sensor array
-		### Plumbing:
-			[ ] Water tank
-			[x] Pressurant (air) tank
-			[ ] Fittings and piping
+## Component checklist:
+### Structure:
+[x] Test platform 
+[x] Battery box
+[ ] Tank stand
+### Pump unit:
+[ ] Test Impellers
+[ ] Impeller dowel
+[ ] Impeller shaft
+[ ] Bearing plate
+[ ] Housing base
+[ ] Housing center
+[ ] ] Housing top
+[ ] Seal plates
+[ ] Motor mount
+[ ] Shaft coupler
+[ ] Various fasteners
+[ ] Seals and bearings
+### Electrical:
+[x] Motor
+[x] ESC
+[x] Batteries
+[ ] Assembled wiring harness
+[ ] DAQ system
+[ ] Assembled sensor array
+### Plumbing:
+[ ] Water tank
+[x] Pressurant (air) tank
+[ ] Fittings and piping
 
 # Important links
 
