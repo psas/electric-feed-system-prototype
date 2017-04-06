@@ -53,7 +53,7 @@ Project requirements
 - [ ] Bearing plate
 - [ ] Housing base
 - [ ] Housing center
-- [ ] ] Housing top
+- [ ] Housing top
 - [ ] Seal plates
 - [ ] Motor mount
 - [ ] Shaft coupler
@@ -67,7 +67,7 @@ Project requirements
 - [ ] DAQ system
 - [ ] Assembled sensor array
 ### Plumbing:
-- [ ] Water tank
+- [x] Water tank (uses 14 NPT thread on both ends)
 - [x] Pressurant (air) tank
 - [ ] Fittings and piping
 
