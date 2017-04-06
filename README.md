@@ -41,6 +41,8 @@ Project requirements
 	3. HOT FIRE!!! ((super secret hidden bonus level))
 	
 # Experiment design:
+====================
+
 ## Component checklist:
 ### Structure:
 - [x] Test platform 
@@ -72,6 +74,7 @@ Project requirements
 - [ ] Fittings and piping
 
 # Important links
+==================
 
  - [Cache of NASA 8000-series Special Publication mongoraphs](https://drive.google.com/folderview?id=0B5irBl_D7OtgMHlDUzJMNnBrSWM&usp=sharing)
    (not publically accessible as of 20170325)
