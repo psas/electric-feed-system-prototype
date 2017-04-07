@@ -15,19 +15,19 @@
 "big seal depth"= 8.3mm
 "big seal bore" = "big seal depth" + 1mm
 
-"z" = 10 		'number of blades
+"z" = 5 		'number of blades
 "de" = 0.426in 		'entrance eye diameter
 "de_length" = 10mm	'entrance eye consistent length
 "d2" = 2.097in 		'outer diameter of the impeller 
 "d_exit" = 0.18in 	'volute throat aka D4
 "theta" = 15
-"b2" = .0969in							'tip height from disc surface at d2
+"b2" = .059in							'tip height from disc surface at d2
 "b1" = "b2" + ("d2"/2 - "de"/2)*sin("theta")			'tip height from disc surface at inlet eye
 "s" = ( 1/"z")*(3.14*"de" - (3.14*("de"^2) / (4*("b1"))))	'thickness of blades, calculated from area
 "s_opening" = (3.14*"de" - "z"*"s")/"z"				'ideal gap between blades, calculated from area
 "area_eye"=3.14*("de"^2)/4					'eye area
 "single_channel_area"="s_opening"*"b1"				'ideal area between two blades
-"minimum channel width" = "s_opening"							'minimum s, set this to a bit size for milling or to s_opening for DMLS
+"minimum channel width" = 4mm							'minimum s, set this to a bit size for milling or to s_opening for DMLS
 "inlet area before cut" = "minimum channel width" * ("z") * "b1"			'if minimum channel width>s_opening, this is larger than area_eye
 "area to cut" = "inlet area before cut" - "area_eye"					'amount of extra area					
 "height to cut" = "area to cut" / (("z")* "minimum channel width")+ .0001in		'the 0.0001 in cut is to avoid errors in model
