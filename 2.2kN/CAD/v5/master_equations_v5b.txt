@@ -1,0 +1,122 @@
+﻿"bearing OD" = 30mm
+"bearing ID"= 10mm
+"bearing depth"= 9mm
+"bearing outer race thickness"= 1mm
+"bearing inner race thickness"= 1mm
+"bearing bore" = "bearing depth" + 1mm
+
+"small seal OD" = 20mm
+"small seal ID"= 8mm
+"small seal depth" = 8.3mm
+"small seal bore" = "small seal depth" + 1mm
+
+"big seal OD" = 27mm
+"big seal ID"= 16mm
+"big seal depth"= 8.3mm
+"big seal bore" = "big seal depth" + 1mm
+
+"z" = 8 			'number of blades
+"de" = 0.426in			'entrance eye diameter
+"de_length" = 10mm		'entrance eye consistent length
+"d_exit" = 0.18in 		'volute throat aka D4
+"d2" = 2.097in 			'outer diameter of the impeller
+"b2" = .07in							'tip height from disc surface at d2
+"b1" = "b2" + ("d2"/2 - "de"/2)*sin("theta") 			'tip height from disc surface at inlet eye
+"theta" = 25			'angle of blades from inner to outer 
+"ae" = 3.14*("de"^2)/4		'entrance eye area'
+"ce" = 3.14*"de"		'entrance eye circumference
+"av_ratio" = .325		'ratio of av/ae at N_s of 470, range is .275 to .375, .325 ideal. High ratio means bigger area means smaller blades
+"av" = "ae"*"av_ratio"		'area between just two blades
+"s_open" = "av"/"b1"		'width of open area
+"s"="ce" - "z"*"s_open"
+
+"impeller center height" = "impeller base thickness" + "b1"	'impeller height at de
+"impeller outer height" = "impeller base thickness" + "b2"	'impeller height at de
+
+"impeller upper clearance"= .5mm
+"impeller horizontal clearance"= ("d2"*1.15 - "d2")/2 		'clearance based on D2-D3 ratio for circular volute, ranges 1.15 to 1.2
+"impeller bottom clearance"= .5mm
+
+"impeller base thickness"= 2mm
+"impeller dowel diameter" = 2mm
+"impeller bolt head diameter" = 7.5mm
+"impeller bolt head depth" = 4mm
+"impeller bolt stop depth" = 3mm
+"impeller bolt bore" = 4mm
+"impeller shaft bore depth" = 12mm
+"impeller shaft bore" = 8mm
+"impeller boss depth" = "impeller shaft bore depth"+"impeller bolt stop depth"+"impeller bolt head depth"-"impeller base thickness"
+"impeller boss diameter" = 16mm
+"impeller dowel length" = 2mm*2 + "impeller shaft bore"
+
+"coupler motor shaft hole ID"= 8mm
+"coupler OD"= 17mm
+"coupler length"= 25mm
+
+"motor OD" = 64mm
+"motor shaft diameter"= 8mm
+"motor shaft pride"= 32mm
+"motor to bearing plate distance" = "motor shaft pride" + 2mm +"coupler length"/2
+
+"square plate bolt bore" = 8mm
+"square plate bolt head diameter" = 13.5mm
+"square plate bolt head depth" = 8mm
+"square plate bolt pattern diameter"= "motor OD" + "square plate bolt head diameter" + 4mm
+
+"motor mount center bore"= "coupler OD"+ 4mm
+"motor mount post radius"= ( 3 * "square plate bolt bore" ) / 2
+"motor mount m4 screw hole diameter"= 4mm
+"motor mount m4 head diameter"= 7.25mm
+"motor mount m4 head depth"= 4mm
+"motor mount m4 pattern diamater" = 30mm
+"motor mount plate thickness"= 8mm + "motor mount m4 head depth"
+
+"bearing plate stop ID" = "bearing OD" - 4mm
+"bearing plate stop depth" = 3mm
+"bearing plate thickness" = "bearing bore" + "bearing plate stop depth" + "shaft bearing stop length"
+
+"small seal plate lip depth" = 2mm
+"small seal plate lip ID" = "small seal OD" - 3mm
+"small seal plate thickness" = "small seal plate lip depth" + "small seal bore"
+
+"shaft coupler section diameter" = 8mm
+"shaft coupler section length" = "motor to bearing plate distance" - "motor shaft pride" - 2mm
+"shaft bearing section diameter" = "bearing ID"
+"shaft bearing section length" = "bearing plate stop depth" + "bearing depth"
+"shaft bearing stop diameter" = "bearing ID" + 4mm
+"shaft bearing stop length" = 3mm
+"shaft small seal section diameter" = "small seal ID"
+"shaft small seal section length" = "small seal plate thickness" + 1mm
+"shaft impeller section diameter" = "impeller shaft bore"
+"shaft impeller section length" = "big seal plate thickness" + "big seal plate riser" + "impeller bottom clearance" + "impeller base thickness" - "impeller bolt head depth" - "impeller bolt stop depth"
+
+"big seal plate thickness" = "big seal plate pressure hole diameter"*3
+"big seal plate lip ID" = "big seal OD" - 3mm
+"big seal plate riser" = "impeller housing thickness"/2 - "b2"/2 - "impeller base thickness" - 	"impeller bottom clearance"			'this offsets the gap under the housing
+"big seal plate pressure hole diameter" = .125in	'this is 1/8 drill 
+"big seal plate pressure tap diameter" = .328125in 	'this is 21/64 drill for a 1/8 ANPT tap
+"big seal plate pressure tap grip" = 4mm		'this is the area around the tap so it doesn't crack
+"big seal plate pressure tap depth" = 12
+
+"impeller cavity center height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller center height"
+"impeller cavity diameter"= 2 * "impeller horizontal clearance" + "d2" 									'called D3 analytically
+"impeller cavity outer height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller base thickness" + "b2" 		'this is height at impeller diameter d2, not at d3
+
+"impeller housing thickness"= "impeller housing exit threaded diameter" + 2*"impeller housing outlet grip"
+"impeller housing diameter" = "square plate bolt pattern diameter" + 2*"motor mount post radius"
+"impeller housing bolt count" = 8
+"impeller housing bolt diameter" = 6mm
+"impeller housing bolt pattern diameter" = 3in
+"impeller housing threaded inlet diameter" = 0.6875in 		'this is the 11/16 drill size for 1/2 npt fitting
+"impeller housing threaded inlet depth"= 15mm
+"impeller housing exit threaded diameter"= 0.6875in 		'this is the 11/16 drill size for 1/2 npt fitting
+"impeller housing exit threaded depth"= 18mm
+"impeller housing diffuser conical angle"=10
+"impeller housing diffuser tangent angle"=5
+"impeller housing diffuser final diameter" = .5in
+"impeller housing outlet grip" = 5mm
+
+
+
+
+
