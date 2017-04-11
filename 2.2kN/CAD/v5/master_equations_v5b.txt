@@ -1,10 +1,11 @@
 ﻿"z" = 8 			'number of blades
 "de" = 0.426in			'entrance eye diameter
 "de_length" = 10mm		'entrance eye consistent length
-"d_exit" = 0.18in 		'volute throat aka D4
+"d_exit" = 0.18in 		'exit throat aka D4
+"l_exit" = 5mm			'exit throad length
 "d2" = 2.097in 			'outer diameter of the impeller
 "b2" = .07in							'tip height from disc surface at d2
-"b1" = "b2" + ("d2"/2 - "de"/2)*sin("theta") 			'tip height from disc surface at inlet eye
+"b1" = "b2" + ("d2"/2 - "de"/2)*tan("theta") 			'tip height from disc surface at inlet eye
 "theta" = 25			'angle of blades from inner to outer 
 "ae" = 3.14*("de"^2)/4		'entrance eye area'
 "ce" = 3.14*"de"		'entrance eye circumference
@@ -112,13 +113,13 @@
 "impeller housing bolt count" = 8
 "impeller housing bolt diameter" = "m6 clearance"
 "impeller housing bolt pattern diameter" = 3.5in
-"impeller housing threaded inlet diameter" = 0.6875in 		'this is the 11/16 drill size for 1/2 npt fitting
+"impeller housing threaded inlet diameter" = 0.515625in 	'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
 "impeller housing threaded inlet depth"= 15mm
-"impeller housing exit threaded diameter"= 0.6875in 		'this is the 11/16 drill size for 1/2 npt fitting
+"impeller housing exit threaded diameter"= 0.515625in 		'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
 "impeller housing exit threaded depth"= 18mm
 "impeller housing diffuser conical angle"=10
 "impeller housing diffuser tangent angle"=5
-"impeller housing diffuser final diameter" = .5in
+"impeller housing diffuser final diameter" = .38in
 "impeller housing outlet grip" = 5mm
 
 "end mill size" = 0.375in	'for 3/8 endmill
