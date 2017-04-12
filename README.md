@@ -48,7 +48,7 @@ Project requirements
 - [x] Test platform 
 - [x] Battery box
 - [ ] Tank stand
-### Pump unit:
+### Fabrication:
 - [ ] Test Impellers
 - [ ] Impeller dowel
 - [ ] Impeller shaft
@@ -72,6 +72,23 @@ Project requirements
 - [x] Water tank (uses 14 NPT thread on both ends)
 - [x] Pressurant (air) tank
 - [ ] Fittings and piping
+### Sensors:
+- [ ] Pressure sensors
+- [ ] Temperature sensors
+- [ ] Wattmeter
+- [ ] Speedometer
+### Controls: 
+- [ ] Demonstrate feedback
+- [ ] Program final motor
+- [ ] Integration 
+- [ ] Test final feedback
+### Power: 
+- [ ] Inverter?
+### Administration:
+- [ ] Manufacturing coordination
+- [ ] Testing location coordination
+- [ ] Finalize DOE descisions 
+
 
 # Important links
 ==================
