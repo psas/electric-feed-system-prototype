@@ -1,4 +1,4 @@
-Electric Feed System
+﻿Electric Feed System
 ======================
 
 An exploratory project looking into the possibility of using electric fuel & oxidizer pumps
@@ -89,6 +89,16 @@ Project requirements
 - [ ] Testing location coordination
 - [ ] Finalize DOE descisions 
 
+## Project Members
+
+Name             | GitHub Username | Current Role 
+-----------------|-----------------|-------------
+Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
+Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
+Mimi Shang       |                 | Controls; Testing
+Johnathan Talik  | @jtalik         | Mechanical Design; MFG
+Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
+James Luce       | @luceja         | Thermo/fluids; MFG
 
 # Important links
 ==================
