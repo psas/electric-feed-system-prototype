@@ -5,7 +5,7 @@ An exploratory project looking into the possibility of using electric fuel & oxi
 to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled
 Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
 
-!["Block Diagram of proposed electric feed system"](Documentation/Readme Images/BlockDiagram.png)
+!["Block Diagram of proposed electric feed system"](Documentation/Images/BlockDiagram.png)
 
 
 Project requirements
