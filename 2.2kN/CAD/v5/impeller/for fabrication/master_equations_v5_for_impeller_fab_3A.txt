@@ -8,7 +8,7 @@
 "theta" = 12			'angle of blades from inner to outer 
 "ae" = 3.14*("de"^2)/4		'entrance eye area'
 "ce" = 3.14*"de"		'entrance eye circumference
-"av_ratio" = .32		'ratio of av/ae at N_s of 470, range is .275 to .375, .325 ideal. low ratio means thick blades
+"av_ratio" = .275		'ratio of av/ae at N_s of 470, range is .275 to .375, .325 ideal. low ratio means thick blades
 "av" = "ae"*"av_ratio"		'area between just two blades
 "s_open" = "av"/"b1"		'width of open area
 "s"="ce" - "z"*"s_open"
