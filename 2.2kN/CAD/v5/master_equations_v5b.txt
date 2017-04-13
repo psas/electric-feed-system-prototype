@@ -15,7 +15,7 @@
 "min blade thickness" = .15in
 
 "diffuser cartridge OD" =.75in
-"diffuser flange bolt pattern diameter" = 1.5in
+"diffuser flange bolt pattern diameter" = 1.4in
 
 "bearing OD" = 30mm
 "bearing ID"= 10mm
