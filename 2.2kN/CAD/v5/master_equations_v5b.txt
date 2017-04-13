@@ -119,7 +119,7 @@
 "impeller housing exit threaded depth"= 10mm
 "impeller housing diffuser conical angle"=10
 "impeller housing diffuser tangent angle"=5
-"impeller housing diffuser final diameter" = .38in
+"impeller housing diffuser final diameter" = .38in		'aka d2'
 "impeller housing outlet grip" = 5mm
 
 "end mill size" = 0.375in	'for 3/8 endmill
