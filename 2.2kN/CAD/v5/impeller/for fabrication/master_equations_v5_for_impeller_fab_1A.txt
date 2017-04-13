@@ -1,4 +1,4 @@
-﻿"z" = 6			'number of blades
+﻿"z" = 6				'number of blades
 "de" = 0.43in			'entrance eye diameter
 "de_length" = 10mm		'entrance eye consistent length
 "d_exit" = 0.18in 		'throat aka d1

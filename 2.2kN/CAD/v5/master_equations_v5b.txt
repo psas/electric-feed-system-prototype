@@ -1,9 +1,9 @@
 ﻿"z" = 8 			'number of blades
-"de" = 0.426in			'entrance eye diameter
+"de" = 0.43in			'entrance eye diameter
 "de_length" = 10mm		'entrance eye consistent length
 "d_exit" = 0.18in 		'exit throat aka D4
 "l_exit" = 5mm			'exit throad length
-"d2" = 2.097in 			'outer diameter of the impeller
+"d2" = 2.1in 			'outer diameter of the impeller
 "b2" = .07in							'tip height from disc surface at d2
 "b1" = "b2" + ("d2"/2 - "de"/2)*tan("theta") 			'tip height from disc surface at inlet eye
 "theta" = 25			'angle of blades from inner to outer 
@@ -64,7 +64,7 @@
 "motor shaft pride"= 32mm
 "motor to bearing plate distance" = "motor shaft pride" + 2mm +"coupler length"/2
 
-"square plate bolt bore" = 8mm
+"square plate bolt bore" = "m8 clearance"
 "square plate bolt head diameter" = 13.5mm
 "square plate bolt head depth" = 8mm
 "square plate bolt pattern diameter"= 3.5in
