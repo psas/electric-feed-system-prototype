@@ -1,18 +1,18 @@
-﻿"z" = 8 			'number of blades
+﻿"z" = 8				'number of blades
 "de" = 0.43in			'entrance eye diameter
 "de_length" = 10mm		'entrance eye consistent length
-"d_exit" = 0.18in 		'exit throat aka D4
-"l_exit" = 5mm			'exit throad length
+"d_exit" = 0.18in 		'throat aka d1
 "d2" = 2.1in 			'outer diameter of the impeller
-"b2" = .07in							'tip height from disc surface at d2
+"b2" = .2in			'tip height from disc surface at d2; slightly higher than d_exit
 "b1" = "b2" + ("d2"/2 - "de"/2)*tan("theta") 			'tip height from disc surface at inlet eye
-"theta" = 25			'angle of blades from inner to outer 
+"theta" = 12			'angle of blades from inner to outer 
 "ae" = 3.14*("de"^2)/4		'entrance eye area'
 "ce" = 3.14*"de"		'entrance eye circumference
 "av_ratio" = .325		'ratio of av/ae at N_s of 470, range is .275 to .375, .325 ideal. High ratio means bigger area means smaller blades
 "av" = "ae"*"av_ratio"		'area between just two blades
 "s_open" = "av"/"b1"		'width of open area
 "s"="ce" - "z"*"s_open"
+"min blade thickness" = .15in
 
 "bearing OD" = 30mm
 "bearing ID"= 10mm
@@ -96,12 +96,12 @@
 "shaft impeller section diameter" = "impeller shaft bore"
 "shaft impeller section length" = "upper seal plate thickness" + "upper seal plate riser" + "impeller bottom clearance" + "impeller base thickness" - "impeller bolt head depth" - "impeller bolt stop depth"
 
-"upper seal plate thickness" = "upper seal plate pressure hole diameter"*3
+"upper seal plate thickness" = "upper seal plate pressure hole diameter"+10mm
 "upper seal plate lip ID" = "upper seal OD" - 3mm
-"upper seal plate riser" = "impeller housing thickness"/2 - "b2"/2 - "impeller base thickness" - 	"impeller bottom clearance"			'this offsets the gap under the housing
+"upper seal plate riser" = 6.59mm 		'this number needs to be read from the housing file
 "upper seal plate pressure hole diameter" = .125in	'this is 1/8 drill 
 "upper seal plate pressure tap diameter" = .328125in 	'this is 21/64 drill for a 1/8 ANPT tap
-"upper seal plate pressure tap grip" = 4mm		'this is the area around the tap so it doesn't crack
+"upper seal plate pressure tap grip" = 5mm		'this is the area around the tap so it doesn't crack
 "upper seal plate pressure tap depth" = 12
 
 "impeller cavity center height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller center height"
@@ -114,9 +114,9 @@
 "impeller housing bolt diameter" = "m6 clearance"
 "impeller housing bolt pattern diameter" = 3.5in
 "impeller housing threaded inlet diameter" = 0.515625in 	'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
-"impeller housing threaded inlet depth"= 15mm
+"impeller housing threaded inlet depth"= 10mm
 "impeller housing exit threaded diameter"= 0.515625in 		'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
-"impeller housing exit threaded depth"= 18mm
+"impeller housing exit threaded depth"= 10mm
 "impeller housing diffuser conical angle"=10
 "impeller housing diffuser tangent angle"=5
 "impeller housing diffuser final diameter" = .38in
