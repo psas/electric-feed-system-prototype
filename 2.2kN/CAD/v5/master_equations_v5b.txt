@@ -105,7 +105,7 @@
 "upper seal plate pressure hole diameter" = .125in	'this is 1/8 drill 
 "upper seal plate pressure tap diameter" = .328125in 	'this is 21/64 drill for a 1/8 ANPT tap
 "upper seal plate pressure tap grip" = 5mm		'this is the area around the tap so it doesn't crack
-"upper seal plate pressure tap depth" = 12
+"upper seal plate pressure tap depth" = 12mm
 
 "impeller cavity center height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller center height"
 "impeller cavity diameter"= 2 * "impeller horizontal clearance" + "d2" 									'called D3 analytically
