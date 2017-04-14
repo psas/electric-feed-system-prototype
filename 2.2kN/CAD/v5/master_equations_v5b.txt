@@ -15,7 +15,7 @@
 "min blade thickness" = .15in
 
 "diffuser cartridge OD" =.75in
-"diffuser flange bolt pattern diameter" = 1.5in
+"diffuser flange bolt pattern diameter" = 1.4in
 
 "bearing OD" = 30mm
 "bearing ID"= 10mm
@@ -105,7 +105,7 @@
 "upper seal plate pressure hole diameter" = .125in	'this is 1/8 drill 
 "upper seal plate pressure tap diameter" = .328125in 	'this is 21/64 drill for a 1/8 ANPT tap
 "upper seal plate pressure tap grip" = 5mm		'this is the area around the tap so it doesn't crack
-"upper seal plate pressure tap depth" = 12
+"upper seal plate pressure tap depth" = 12mm
 
 "impeller cavity center height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller center height"
 "impeller cavity diameter"= 2 * "impeller horizontal clearance" + "d2" 									'called D3 analytically
@@ -113,7 +113,7 @@
 
 "impeller housing thickness"= "impeller housing exit threaded diameter" + 2*"impeller housing outlet grip"
 "impeller housing diameter" = "square plate bolt pattern diameter" + 2*"motor mount post radius"
-"impeller housing bolt count" = 8
+"impeller housing bolt count" = 6
 "impeller housing bolt diameter" = "m6 clearance"
 "impeller housing bolt pattern diameter" = 3.5in
 "impeller housing threaded inlet diameter" = 0.515625in 	'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
