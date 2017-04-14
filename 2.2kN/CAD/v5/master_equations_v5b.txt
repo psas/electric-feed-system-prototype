@@ -116,8 +116,8 @@
 "impeller housing bolt count" = 6
 "impeller housing bolt diameter" = "m6 clearance"
 "impeller housing bolt pattern diameter" = 3.5in
-"impeller housing threaded inlet diameter" = 0.515625in 	'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
-"impeller housing threaded inlet depth"= 10mm
+"impeller housing threaded inlet diameter" = 0.71875in 	'this is the 23/32 drill size for 1/2 NPT fitting https://www.mcmaster.com/#50715k269/=176pljy
+"impeller housing threaded inlet depth"= .6in
 "impeller housing exit threaded diameter"= 0.515625in 		'this is the 33/64 drill size for 9/16-18 fitting, expecting swagelok SS-8FK0-1-6STH fitting
 "impeller housing exit threaded depth"= 10mm
 "impeller housing diffuser conical angle"=10
