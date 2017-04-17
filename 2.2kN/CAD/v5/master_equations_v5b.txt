@@ -1,6 +1,6 @@
 ﻿"z" = 8				'number of blades
 "de" = 0.43in			'entrance eye diameter
-"de_length" = 10mm		'entrance eye consistent length
+"de_length" = 4mm		'entrance eye consistent length
 "d_exit" = 0.18in 		'throat aka d1
 "d2" = 2.1in 			'outer diameter of the impeller
 "b2" = .2in			'tip height from disc surface at d2; slightly higher than d_exit
