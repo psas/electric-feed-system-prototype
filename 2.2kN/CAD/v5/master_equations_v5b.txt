@@ -112,7 +112,7 @@
 "impeller cavity outer height"= "impeller bottom clearance" + "impeller upper clearance" + "impeller base thickness" + "b2" 		'this is height at impeller diameter d2, not at d3
 
 "impeller housing thickness"= "impeller housing exit threaded diameter" + 2*"impeller housing outlet grip"
-"impeller housing diameter" = "square plate bolt pattern diameter" + 2*"motor mount post radius"
+"impeller housing diameter" = 4.5in
 "impeller housing bolt count" = 8
 "impeller housing bolt diameter" = "m6 clearance"
 "impeller housing bolt pattern diameter" = 3.5in
