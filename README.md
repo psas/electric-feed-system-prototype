@@ -41,11 +41,12 @@ Project requirements
 	3. HOT FIRE!!! ((super secret hidden bonus level))
 	
 # Experiment design:
-======================
+
 
 !["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
 
 ## Component checklist:
+
 ### Structure:
 - [x] Test platform 
 - [x] Battery box
