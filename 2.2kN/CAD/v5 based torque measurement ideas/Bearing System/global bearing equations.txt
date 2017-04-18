@@ -1,5 +1,0 @@
-﻿"D2@Sketch1" = "locating bearing hieght@Sketch1" * .05
-"D3@Sketch1" = "locating bearing hieght@Sketch1" / 3.5
-"D4@Sketch1" =  (  (  ( "locating bearing od@Sketch1" - "locating bearing hieght@Sketch1" )  / 2 )  / 3.25 )  / 3.5
-"D2@CirPattern1" = 360/"Balls@CirPattern1"
-"locating bearing hieght"= "locating bearing hieght@Sketch1"

@@ -1,7 +1,0 @@
-﻿"D2@Sketch1" = "Width@Sketch1"*.05
-"D3@Sketch1" = "Width@Sketch1"/3.5
-"D4@Sketch1" = ((("OD@Sketch1"-"Width@Sketch1")/2)/3.25)/3.5
-"D2@CirPattern1" = 360/"Balls@CirPattern1"
-"locating bearing ID"= "Shaft Dia@Sketch1"
-"locating bearing OD"= "OD@Sketch1"
-"locating bearing z"= "Width@Sketch1"
