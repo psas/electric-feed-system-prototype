@@ -43,6 +43,8 @@ Project requirements
 # Experiment design:
 ====================
 
+!["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
+
 ## Component checklist:
 ### Structure:
 - [x] Test platform 
