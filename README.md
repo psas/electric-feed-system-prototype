@@ -47,7 +47,7 @@ Project requirements
 ### Structure:
 - [x] Test platform 
 - [x] Battery box
-- [ ] Tank stand
+- [x] Tank stand
 ### Fabrication:
 - [ ] Test Impellers
 - [ ] Impeller dowel
