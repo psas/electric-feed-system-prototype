@@ -1,14 +1,42 @@
-﻿Electric Feed System
-======================
+﻿---
+layout: project
+title: PSAS Electric Feed System
+sponsor: Portland State Aerospace Society
+sponsor_url: http://psas.pdx.edu/
+document-date: 18 April 2017
+---
 
-An exploratory project looking into the possibility of using electric fuel & oxidizer pumps
-to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled
+# Electric Feed System
+
+
+!["Group Photo Minus James"](electric-feed-system\Publicity\lloyd_meeting_photo_1024)
+
+An exploratory project, sponsored by the Portland State Aerospace Society, looking into the possibility of using 
+electric fuel & oxidizer pumps to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled
 Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
+
+More information available on Github: [Electric feed system](https://github.com/psas/electric-feed-system)
+[PSAS Main Page](http://psas.pdx.edu/)
+
+## Project Objective:
+
+Design, build, and test an electric feed system using COTS parts and in-house manufacturing for Portland State Aerospace 
+Society’s liquid fueled rocket engine by June 6, 2017. 
 
 !["Block Diagram of proposed electric feed system"](Documentation/Images/BlockDiagram.png)
 
+## Project Members
 
-Project requirements
+Name             | GitHub Username | Current Role 
+-----------------|-----------------|-------------
+Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
+Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
+Mimi Shang       | @mimishang      | Controls; Testing
+Johnathan Talik  | @jtalik         | Mechanical Design; MFG
+Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
+James Luce       | @luceja         | Thermo/fluids; MFG
+
+## Project requirements
 --------------------
 
 1. Design a custom inverter/power supply system.
@@ -40,70 +68,7 @@ Project requirements
 	2. Cold flow test w/ LN2.
 	3. HOT FIRE!!! ((super secret hidden bonus level))
 	
-# Experiment design:
-====================
+## Design Challenges:
 
-!["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
+## Outcomes:
 
-## Component checklist:
-### Structure:
-- [x] Test platform 
-- [x] Battery box
-- [x] Tank stand
-### Fabrication:
-- [ ] Test Impellers
-- [ ] Impeller dowel
-- [ ] Impeller shaft
-- [ ] Bearing plate
-- [ ] Housing base
-- [ ] Housing center
-- [ ] Housing top
-- [ ] Seal plates
-- [ ] Motor mount
-- [ ] Shaft coupler
-- [ ] Various fasteners
-- [ ] Seals and bearings
-### Electrical:
-- [x] Motor
-- [x] ESC
-- [x] Batteries
-- [ ] Assembled wiring harness
-- [ ] DAQ system
-- [ ] Assembled sensor array
-### Plumbing:
-- [x] Water tank (uses 14 NPT thread on both ends)
-- [x] Pressurant (air) tank
-- [ ] Fittings and piping
-### Sensors:
-- [ ] Pressure sensors
-- [ ] Temperature sensors
-- [ ] Wattmeter
-- [ ] Speedometer
-### Controls: 
-- [ ] Demonstrate feedback
-- [ ] Program final motor
-- [ ] Integration 
-- [ ] Test final feedback
-### Power: 
-- [ ] Inverter?
-### Administration:
-- [ ] Manufacturing coordination
-- [ ] Testing location coordination
-- [ ] Finalize DOE descisions 
-
-## Project Members
-
-Name             | GitHub Username | Current Role 
------------------|-----------------|-------------
-Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
-Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
-Mimi Shang       |                 | Controls; Testing
-Johnathan Talik  | @jtalik         | Mechanical Design; MFG
-Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
-James Luce       | @luceja         | Thermo/fluids; MFG
-
-# Important links
-==================
-
- - [Cache of NASA 8000-series Special Publication mongoraphs](https://drive.google.com/folderview?id=0B5irBl_D7OtgMHlDUzJMNnBrSWM&usp=sharing)
-   (not publically accessible as of 20170325)
