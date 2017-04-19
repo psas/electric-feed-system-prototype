@@ -67,8 +67,10 @@ James Luce       | @luceja         | Thermo/fluids; MFG
 	1. Cold flow test w/ water.
 	2. Cold flow test w/ LN2.
 	3. HOT FIRE!!! ((super secret hidden bonus level))
-4. Throttling of the pump based on rocket's altitude.
-## Design Challenges:
 
+## Design Challenges:
+- Pump sealing solution
+- Design for optimal efficiency
 ## Outcomes:
+
 
