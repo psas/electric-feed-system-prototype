@@ -98,7 +98,7 @@ Name             | GitHub Username | Current Role
 -----------------|-----------------|-------------
 Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
 Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
-Mimi Shang       |                 | Controls; Testing
+Mimi Shang       | @mimishang      | Controls; Testing
 Johnathan Talik  | @jtalik         | Mechanical Design; MFG
 Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
 James Luce       | @luceja         | Thermo/fluids; MFG
