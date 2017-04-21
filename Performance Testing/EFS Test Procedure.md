@@ -1,12 +1,3 @@
----
-title:
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # **Electric Propellant Feed System Centrifugal Pump Performance Test**
 
 ***
@@ -62,7 +53,9 @@ The objectives of testing the electric feed systems centrifugal pump are to:
 
 <div style="text-align: justify">
 In order to obtain the main characteristic curves of the EFS pump it is operated at different speeds. For each speed, rate of flow discharge is varied by means of a delivery valve and for different values of monomeric head Hm, shaft power P and overall efficiency Eo are measured or calculated. The same operation is repeated for different speeds of the pump. Then H<sub>m</sub> Vs Q, P Vs Q and E<sub>o</sub> Vs Q curves for different speeds are plotted, so that three sets of curves are obtained, which represent main characteristics of the EFS pump.
+</div>
 
+<div style="text-align: justify">
 The pump head (h<sub>p</sub>) which consists of the static (elevation) head, friction head, pressure head, and the velocity head measures the total resistance the pump must overcome in unit feet (meter for SI system). It is calculated using the conservation of energy equation for steady flow through a control volume which in this case is the pump. This equation contains both the pressure head and the elevation head since the pressure differential measured across the pump is the sum of the static and hydrostatic pressures. The power delivered to the water by the pump W<sub>out</sub>, the power delivered to the pump by the motor or the brake horsepower W<sub>bhp</sub> and the pump efficiency n<sub>p</sub> are then calculated at each flowrate Q (gpm) from [INSERT MATHS]
 </div>
 
