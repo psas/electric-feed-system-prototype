@@ -1,12 +1,9 @@
 ﻿Electric Feed System
 ======================
 
-An exploratory project looking into the possibility of using electric fuel & oxidizer pumps to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
+The goal of the EFS project is to design, build, and test an electric feed system using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine prototype by June 6, 2017.
 
-!["Block Diagram of proposed electric feed system"](Documentation/Images/BlockDiagram.png)
-
-EFS Requirements
-======================
+### EFS Requirements:
 
 1. Design and bench test a technology development platform for the electric pump system.
 2. Design and test a custom power system for EFS motor and system controls.
