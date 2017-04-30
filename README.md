@@ -7,7 +7,6 @@ Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
 
 !["Block Diagram of proposed electric feed system"](Documentation/Images/BlockDiagram.png)
 
-
 Project requirements
 --------------------
 
@@ -39,69 +38,14 @@ Project requirements
 	1. Cold flow test w/ water.
 	2. Cold flow test w/ LN2.
 	3. HOT FIRE!!! ((super secret hidden bonus level))
-	
-# Experiment design:
 
+# Experiment design:
 
 !["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
 
-## Component checklist:
-
-### Structure:
-- [x] Test platform 
-- [x] Battery box
-- [x] Tank stand
-
-### Fabrication:
-- [x] Test Impellers
-- [ ] Impeller dowel
-- [ ] Impeller shaft
-- [ ] Bearing plate
-- [ ] Housing base
-- [ ] Housing center
-- [ ] Housing top
-- [ ] Seal plates
-- [ ] Motor mount
-- [x] Shaft coupler
-- [x] Various fasteners
-- [x] Seals and bearings
-
-### Electrical:
-- [x] Motor
-- [x] ESC
-- [x] Batteries
-- [ ] Assembled wiring harness
-- [ ] DAQ system
-- [ ] Assembled sensor array
-
-### Plumbing:
-- [x] Water tank (uses 14 NPT thread on both ends)
-- [x] Pressurant (air) tank
-- [x] Fittings and piping
-
-### Sensors:
-- [x] Pressure sensors
-- [x] Temperature sensors
-- [ ] Wattmeter
-- [ ] Speedometer
-
-### Controls: 
-- [ ] Demonstrate feedback
-- [ ] Program final motor
-- [ ] Integration 
-- [ ] Test final feedback
-
-### Power: 
-- [ ] Inverter?
-
-### Administration:
-- [x] Manufacturing coordination
-- [ ] Testing location coordination
-- [ ] Finalize DOE descisions 
-
 ## Project Members
 
-Name             | GitHub Username | Current Role 
+Name             | GitHub Username | Current Role
 -----------------|-----------------|-------------
 Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
 Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
