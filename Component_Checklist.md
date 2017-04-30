@@ -1,13 +1,14 @@
 ## Component checklist:
 
 ### Structure:
-- [x] Test platform
+- [ ] Test platform
 - [x] Battery box
-- [x] Tank stand
+- [ ] Tank stand
 
-### Fabrication:
+
+### Fabrication/Assembly:
 - [x] Test Impellers
-- [ ] Impeller dowel
+- [x] Impeller dowel
 - [ ] Impeller shaft
 - [ ] Bearing plate
 - [ ] Housing base
@@ -18,36 +19,37 @@
 - [x] Shaft coupler
 - [x] Various fasteners
 - [x] Seals and bearings
+- [x] Rotating assembly components
 
 ### Electrical:
-- [x] Motor
+- [x] DC Motor
 - [x] ESC
+- [x] ESC Programmable USB
 - [x] Batteries
-- [ ] Assembled wiring harness
-- [ ] DAQ system
-- [ ] Assembled sensor array
+- [x] Battery charger
+- [x] Wiring harness
+- [x] Bullet connectors
 
 ### Plumbing:
 - [x] Water tank (uses 14 NPT thread on both ends)
-- [x] Pressure (air) tank
-- [x] Fittings and piping
+- [x] Supply tank
+- [x] Fittings
+- [x] Valves
+- [x] Tubing
 
 ### Sensors:
-- [x] Pressure sensors
-- [x] Temperature sensors
+- [x] Suction transducer
+- [ ] Discharge Transducer
+- [ ] Stuffing box Transducers
+- [x] Suction gauge
+- [x] Discharge gauge
+- [x] Thermocouple (suction side)
 - [ ] Wattmeter
 - [ ] Speedometer
-
-### Controls:
-- [ ] Demonstrate feedback
-- [ ] Program final motor
-- [ ] Integration
-- [ ] Test final feedback
-
-### Power:
-- [ ] Inverter?
+- [ ] Load cell
+- [ ] Working flow meter
 
 ### Administration:
 - [x] Manufacturing coordination
 - [ ] Testing location coordination
-- [ ] Finalize DOE decisions
+- [x] Finalize DOE decisions
