@@ -3,7 +3,7 @@
 
 The goal of the EFS project is to design, build, and test an electric feed system using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine prototype by June 6, 2017.
 
-### EFS Requirements:
+## EFS Requirements:
 
 1. Design and bench test a technology development platform for the electric pump system.
 2. Design and test a custom power system for EFS motor and system controls.
@@ -16,27 +16,23 @@ The goal of the EFS project is to design, build, and test an electric feed syste
 	- EFS Design Methodology & Design Process
     - Complete bill of materials
 
-### Stretch Goals:
+## Stretch Goals:
 - Integration with existing Liquid Fuelled Engine Test Stand (LFETS)
 - Completed live health monitoring and emergency shutdown provisions.
 - Cold fire LN2 testing.
 - Cold fire LOX testing.
 - Hot  fire LOX testing
 
-## Experiment design:
+### Project Members
 
-!["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
-
-## Project Members
-
-Name             | GitHub Username | Current Role
------------------|-----------------|-------------
-Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
-Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
-Mimi Shang       | @mimishang      | Controls; Testing
-Johnathan Talik  | @jtalik         | Mechanical Design
-Rawand Rasheed   | @rawand12       | Controls; Testing
-James Luce       | @luceja         | Thermo/fluids; MFG
+Name                | GitHub Username | Current Role
+--------------------|-----------------|-----------------------------------
+Jordan Roland       | @JSRoland       | Project Coordinator
+Johnny C. Froehlich | @JordParma      | Design Engineer; Testing
+Mimi Shang          | @mimishang      | Control Systems Engineer; Testing
+Johnathan Talik     | @jtalik         | Manufacturing Engineer
+Rawand Rasheed      | @rawand12       | Control Systems Engineer
+James Luce          | @luceja         | Thermal/fluids Engineer
 
 ## Important links
 
