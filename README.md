@@ -51,8 +51,9 @@ Project requirements
 - [x] Test platform 
 - [x] Battery box
 - [x] Tank stand
+
 ### Fabrication:
-- [ ] Test Impellers
+- [x] Test Impellers
 - [ ] Impeller dowel
 - [ ] Impeller shaft
 - [ ] Bearing plate
@@ -61,9 +62,10 @@ Project requirements
 - [ ] Housing top
 - [ ] Seal plates
 - [ ] Motor mount
-- [ ] Shaft coupler
-- [ ] Various fasteners
-- [ ] Seals and bearings
+- [x] Shaft coupler
+- [x] Various fasteners
+- [x] Seals and bearings
+
 ### Electrical:
 - [x] Motor
 - [x] ESC
@@ -71,24 +73,29 @@ Project requirements
 - [ ] Assembled wiring harness
 - [ ] DAQ system
 - [ ] Assembled sensor array
+
 ### Plumbing:
 - [x] Water tank (uses 14 NPT thread on both ends)
 - [x] Pressurant (air) tank
-- [ ] Fittings and piping
+- [x] Fittings and piping
+
 ### Sensors:
-- [ ] Pressure sensors
-- [ ] Temperature sensors
+- [x] Pressure sensors
+- [x] Temperature sensors
 - [ ] Wattmeter
 - [ ] Speedometer
+
 ### Controls: 
 - [ ] Demonstrate feedback
 - [ ] Program final motor
 - [ ] Integration 
 - [ ] Test final feedback
+
 ### Power: 
 - [ ] Inverter?
+
 ### Administration:
-- [ ] Manufacturing coordination
+- [x] Manufacturing coordination
 - [ ] Testing location coordination
 - [ ] Finalize DOE descisions 
 
@@ -99,8 +106,8 @@ Name             | GitHub Username | Current Role
 Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
 Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
 Mimi Shang       | @mimishang      | Controls; Testing
-Johnathan Talik  | @jtalik         | Mechanical Design; MFG
-Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
+Johnathan Talik  | @jtalik         | Mechanical Design
+Rawand Rasheed   | @rawand12       | Controls; Testing
 James Luce       | @luceja         | Thermo/fluids; MFG
 
 # Important links
