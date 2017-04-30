@@ -33,7 +33,7 @@ Jordan Roland    | @JSRoland       | Project Coordinator; Analysis/Design
 Johnny Froehlich | @JordParma      | Analysis/Design; Turbomachinery
 Mimi Shang       | @mimishang      | Controls; Testing
 Johnathan Talik  | @jtalik         | Mechanical Design; MFG
-Rawand Rasheed   | @rawand12       | Controls; Testing; MFG
+Rawand Rasheed   | @rawand12       | Controls; Testing;
 James Luce       | @luceja         | Thermo/fluids; MFG
 
 ## Project requirements
