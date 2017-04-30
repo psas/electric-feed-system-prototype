@@ -1,45 +1,32 @@
 ﻿Electric Feed System
 ======================
 
-An exploratory project looking into the possibility of using electric fuel & oxidizer pumps
-to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled
-Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
+An exploratory project looking into the possibility of using electric fuel & oxidizer pumps to generate the inlet pressure required to provide propellant to the existing Liquid Fuelled Engine (LFE), which requires a theoretical chamber pressure of ~375 psi.
 
 !["Block Diagram of proposed electric feed system"](Documentation/Images/BlockDiagram.png)
 
-Project requirements
---------------------
+EFS Requirements
+======================
 
-1. Design a custom inverter/power supply system.
-2. Design and ground test a prototype electric pump system that delivers a reasonable NPSH
-   at ~0.04 ft^3/s flow rate of IPA and ~0.03 ft^3/s flow rate of LOX.
-	* This is not a flight system, however, future iterations will be, so make design
-	  decisions with future weight optimization in mind.
-3. Design for the existing LFE (with a design chamber pressure of ~375psi)
-   (this chamber pressure will be confirmed by hot fire test ASAP).
+1. Design and bench test a technology development platform for the electric pump system.
+2. Design and test a custom power system for EFS motor and system controls.
+3. Design for the existing LFE (target chamber pressure of 350 - 400 psi)
 4. The pump must be constructed from COTS components.
-5. Work in parallel with the Carbon Fiber Propellant Tanks (CFPT) team to optimize the pressure
-   requirements for both groups. Pump must successfully suppress cavitation at whatever pressure
-   the CFPT team is able to deliver to us.
-6. Produce the following documents:
-	1. LOX Handling Procedures
-	2. SOP
-	3. Design Methodology & Process
-	4. Analytical design comparison between Blowdown System and Electric Feed System in
-	   order to determine the validity of pursuing the EFS technology.
-7. Complete a design tool that will define a pump based on specific input parameters.
-8. Make a far superior pump than Boston U.
+5. Parallel work with Carbon Fiber Propellant Tank (CFPT) team to optimize vehicle integration.
+6. IPython design tool to generate pump requirements based on engine/vehicle level parameters.    
+7. Produce the following documentation:
+    - EFS testing, handling, and troubleshooting procedures.
+	- EFS Design Methodology & Design Process
+    - Complete bill of materials
 
-### Erin’s Hopes & Dreams:
+### Stretch Goals:
+- Integration with existing Liquid Fuelled Engine Test Stand (LFETS)
+- Completed live health monitoring and emergency shutdown provisions.
+- Cold fire LN2 testing.
+- Cold fire LOX testing.
+- Hot  fire LOX testing
 
-1. A test apparatus that is compatible with the existing LFETS
-2. Live sensors and safety emergency shutdown provisions.
-3. Prototype testing performed (if there is time):
-	1. Cold flow test w/ water.
-	2. Cold flow test w/ LN2.
-	3. HOT FIRE!!! ((super secret hidden bonus level))
-
-# Experiment design:
+## Experiment design:
 
 !["Block Diagram of Testing System"](Documentation/Images/EFSTestStandBlockDiagram.png)
 
