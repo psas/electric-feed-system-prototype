@@ -49,7 +49,7 @@
 - [ ] Load cell
 - [ ] Working flow meter
 
-### Administration 
+### Administration
 - [x] Manufacturing coordination
 - [ ] Testing location coordination
 - [x] Finalize DOE decisions
