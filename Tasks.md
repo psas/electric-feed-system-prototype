@@ -10,17 +10,16 @@
 - [ ] Completed Seal plates
 - [ ] Completed Motor mount
 
+-------------------
 ### Assembly
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Assemble shaft and bearing housings
+- [ ] Assemble pump casing
+- [ ] Assemble diffuser mod
+- [ ] Verify/check fits and play in completed assembly
+- [ ] Verify/check seals, bearings, and impeller clearances
 
-### Controls
+-------------------
+### Control Systems
 - [ ] Assemble of ESC to BL motor, receiver, battery (**NO BEC method**)
 - [ ] Assemble smooth, tight, water cooling tube to ESC
 - [ ] Wire ESC to computer (**B-a or B-b wiring diagram?**)
@@ -42,58 +41,29 @@
 - [ ] Confirm motor RPM feedback
 - [ ] Confirm ESC temp feedback
 
-
-- [ ] Confirm motor RPM feedback
-- [ ] Confirm ESC temp feedback
-
 ###### EFS Performance Feedback Checks:
+- [ ] Test/calibrate/verify Suction side transducer PT1S
+- [ ] Test/calibrate/verify Discharge side transducer PT1D
+- [ ] Test/calibrate/verify vapor pressure thermocouple T1S
+- [ ] Test/calibrate/verify flow meter FMD1
+- [ ] Test/calibrate/verify Supply tank pressure and regulation
 
-### Test Readiness
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
 
+-------------------
 ### Performance Testing
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+
+###### Test Readiness:
 - [ ]
 - [ ]
 - [ ]
 
-### Analysis
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+###### Analysis:
 - [ ]
 - [ ]
 - [ ]
 
-### Administrative
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
+-------------------
 ### Miscellaneous
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
 - [ ]
 - [ ]
 - [ ]
