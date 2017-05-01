@@ -12,15 +12,15 @@ The goal of the EFS project is to design, build, and test an electric feed syste
 5. Parallel work with Carbon Fiber Propellant Tank (CFPT) team to optimize vehicle integration.
 6. IPython design tool to generate pump requirements based on engine/vehicle level parameters.    
 7. Produce the following documentation:
-    - EFS testing, handling, and troubleshooting procedures.
+    - EFS testing, handling, and troubleshooting procedures
 	- EFS Design Methodology & Design Process
     - Complete bill of materials
 
 ## Stretch Goals:
 - Integration with existing Liquid Fuelled Engine Test Stand (LFETS)
-- Completed live health monitoring and emergency shutdown provisions.
-- Cold fire LN2 testing.
-- Cold fire LOX testing.
+- Completed live health monitoring and emergency shutdown provisions
+- Cold fire LN2 testing
+- Cold fire LOX testing
 - Hot  fire LOX testing
 
 ### Project Members
