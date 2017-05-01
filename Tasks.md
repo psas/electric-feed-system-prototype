@@ -21,11 +21,27 @@
 
 ### ASSEMBLY
 
+##### Pump Chassis:
+
 - [ ] Assemble shaft and bearing housings
-- [ ] Assemble pump casing
-- [ ] Assemble diffuser mod
-- [ ] Verify/check fits and play in completed assembly
+- [ ] Assemble pump casing and main housing
+- [ ] Assemble diffuser sleeves and flange
+- [ ] Tap and assemble pump chassis fittings
+- [ ] Verify/check fits and play in completed pump assembly
 - [ ] Verify/check seals, bearings, and impeller clearances
+
+##### Test Stand Plumbing:
+
+- [ ] Size and cut aluminum tubing
+- [ ] Drill suction side tee cap fitting for TC1S
+- [ ] Establish pump centerline and inlet supply height
+- [ ] Assemble EFS test plumbing fittings, tubing (including supports) and valves
+**NOTE**: Check entire test assembly for alignment before tightening fittings and valves for testing.
+- [ ] Install suction and discharge pressure gauges
+- [ ] Install PT1S and PT1D
+- [ ] Install suction and discharge pressure gauges
+- [ ] Install suction side thermocouple TC1S
+- [ ] Install turbine flow meter
 
 -------------------
 
@@ -62,7 +78,7 @@
 
 - [ ] Test/calibrate/verify Suction side transducer PT1S
 - [ ] Test/calibrate/verify Discharge side transducer PT1D
-- [ ] Test/calibrate/verify vapor pressure thermocouple T1S
+- [ ] Test/calibrate/verify vapor pressure thermocouple TC1S
 - [ ] Test/calibrate/verify flow meter FMD1
 - [ ] Test/calibrate/verify Supply tank pressure and regulation
 
