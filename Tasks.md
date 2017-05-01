@@ -10,7 +10,13 @@
 - [ ] Completed Seal plates
 - [ ] Completed Motor mount
 
+###### *Documentation*
+* - [ ] n
+* - [ ]
+* - [ ]
+
 -------------------
+
 ### Assembly
 - [ ] Assemble shaft and bearing housings
 - [ ] Assemble pump casing
@@ -19,8 +25,9 @@
 - [ ] Verify/check seals, bearings, and impeller clearances
 
 -------------------
+
 ### Control Systems
-- [ ] Assemble of ESC to BL motor, receiver, battery (**NO BEC method**)
+- [ ] Assemble of ESC to BL motor, receiver, battery [**NO  BEC**](Documentation\Spec Sheets\Electronics)
 - [ ] Assemble smooth, tight, water cooling tube to ESC
 - [ ] Wire ESC to computer (**B-a or B-b wiring diagram?**)
 - [ ] Complete bench test of motor/ESC to verify parameter settings
@@ -48,8 +55,8 @@
 - [ ] Test/calibrate/verify flow meter FMD1
 - [ ] Test/calibrate/verify Supply tank pressure and regulation
 
-
 -------------------
+
 ### Performance Testing
 
 ###### Test Readiness:
@@ -63,6 +70,7 @@
 - [ ]
 
 -------------------
+
 ### Miscellaneous
 - [ ]
 - [ ]
