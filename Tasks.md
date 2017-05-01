@@ -102,21 +102,26 @@
 
 ### PERFORMANCE TESTING
 
-###### Pre-test:
+##### Pre-test:
 
 - [ ] Complete test procedure document
 * Outline casing inspection and casing hydrostatic test to be performed before performance testing.
 * Establish 0, Qmin, Qmean, Qnom, Q120% using standard measurement of 5 points (9 max.)
-* Establish system curves for inspection during testing
+* Establish operating line (system curves for inspection during testing)
 * **Verify** NPSR/NPSA requirements
 - [ ] EFS NPSH test
 
-###### Analysis:
+##### Analysis:
 - [ ] Q - H Curves
 - [ ] P - Q Curves
 - [ ] n - Q Curves
+- [ ] P - Q Curves
+- [ ] NPSH vs NPSHR
+- [ ] Define EFS BEP, Shut-off, Max. Q, Max. H, BHP, WHP and assess efficiencies
+- [ ] Regression Analysis
+- [ ] Use affinity laws to size 8.0 kN pump :smirk: :rocket:
 
-+ [Processing test data for head measurement]()
++ [Processing test data for head measurement](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/Test%20data%20pocessing.PNG)
 
 ###### *Documentation*
 
