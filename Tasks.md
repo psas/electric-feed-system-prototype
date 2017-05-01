@@ -102,21 +102,21 @@
 
 ### PERFORMANCE TESTING
 
-###### Test Procedure:
+###### Pre-test:
 
 - [ ] Complete test procedure document
-
 * Outline casing inspection and casing hydrostatic test to be performed before performance testing.
 * Establish 0, Qmin, Qmean, Qnom, Q120% using standard measurement of 5 points (9 max.)
 * Establish system curves for inspection during testing
 * **Verify** NPSR/NPSA requirements
-
 - [ ] EFS NPSH test
 
 ###### Analysis:
 - [ ] Q - H Curves
 - [ ] P - Q Curves
 - [ ] n - Q Curves
+
++ [Processing test data for head measurement]()
 
 ###### *Documentation*
 
