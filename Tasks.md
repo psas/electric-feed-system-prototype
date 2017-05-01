@@ -33,10 +33,19 @@
 ##### Test Stand Plumbing:
 
 - [ ] Size and cut aluminum tubing
+
+> Make sure the required number of straight pipe diameters are provided between each measurement device.
+
 - [ ] Drill suction side tee cap fitting for TC1S
-- [ ] Establish pump centerline and inlet supply height
+- [ ] Establish pump centerline
+
+> All pressure measurements must be adjusted to the pump center line.
+
+- [ ] Install vibration dampening methods
 - [ ] Assemble EFS test plumbing fittings, tubing (including supports) and valves
-**NOTE**: Check entire test assembly for alignment before tightening fittings and valves for testing.
+
+> Check entire test assembly for alignment before tightening fittings and valves for performance testing.
+
 - [ ] Install suction and discharge pressure gauges
 - [ ] Install PT1S and PT1D
 - [ ] Install suction and discharge pressure gauges
@@ -93,19 +102,25 @@
 
 ### PERFORMANCE TESTING
 
-###### Test Readiness:
-- [ ]
-- [ ]
-- [ ]
+###### Test Procedure:
+
+- [ ] Complete test procedure document
+
+* Outline casing inspection and casing hydrostatic test to be performed before performance testing.
+* Establish 0, Qmin, Qmean, Qnom, Q120% using standard measurement of 5 points (9 max.)
+* Establish system curves for inspection during testing
+* **Verify** NPSR/NPSA requirements
+
+- [ ] EFS NPSH test
 
 ###### Analysis:
-- [ ]
-- [ ]
-- [ ]
+- [ ] Q - H Curves
+- [ ] P - Q Curves
+- [ ] n - Q Curves
 
 ###### *Documentation*
 
-- [ ]
+- [ ] EFS PUMP DATA SHEET!!!
 
 -------------------
 
