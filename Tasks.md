@@ -27,7 +27,7 @@
 -------------------
 
 ### Control Systems
-- [ ] Assemble of ESC to BL motor, receiver, battery [**NO  BEC**](Documentation/Spec Sheets/Electronics/Swordfish ESC manuals.pdf)
+- [ ] Assemble of ESC to BL motor, receiver, battery [NO BEC](electric-feed-system/Documentation/Spec Sheets/Electronics/Swordfish ESC manuals.pdf)
 - [ ] Assemble smooth, tight, water cooling tube to ESC
 - [ ] Wire ESC to computer (**B-a or B-b wiring diagram?**)
 - [ ] Complete bench test of motor/ESC to verify parameter settings
