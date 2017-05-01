@@ -27,12 +27,15 @@
 -------------------
 
 ### Control Systems
-- [ ] Assemble of ESC to BL motor, receiver, battery [NO BEC](Swordfish ESC manuals.pdf)
+- [ ] Assemble of ESC to BL motor, receiver, battery
+[[NO BEC](https://github.com/psas/electric-feed-system/blob/master/Documentation/Spec%20Sheets/Electronics/Swordfish%20ESC%20manuals.pdf)]
 - [ ] Assemble smooth, tight, water cooling tube to ESC
-- [ ] Wire ESC to computer (**B-a or B-b wiring diagram?**)
+- [ ] Wire ESC to computer
+[[Use B-b config.](https://github.com/psas/electric-feed-system/blob/master/Documentation/Spec%20Sheets/Electronics/233180132-Swordfish-Plus-ESC-Manuals.pdf)]
 - [ ] Complete bench test of motor/ESC to verify parameter settings
 - [ ] Decide on PWM switching rate for most temp efficient operating conditions
 - [ ] Integrate motor/ESC into EFS test assembly (**Following BENCH TEST**)
+
 
 ###### ESC:
 - [ ] Program/verify low voltage cut-off (LVC)
