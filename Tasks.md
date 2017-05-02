@@ -3,13 +3,10 @@
 
 - [ ] Completed Pump System 
   - [ ] Impellers - James please update 
-  - [ ] Diffuser inserts
-    - [x] Stock printed
-    - [ ] Post processing
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
         - [x] .SLDPRT
-        - [ ] Squared
+        - [x] Squared
         - [ ] Mastercam
         - [ ] G-Code
         - [ ] Faced
@@ -17,16 +14,16 @@
         - [ ] Finising
      - [x] Lower Bearing Plate
         - [x] .SLDPRT
-        - [ ] Squared
+        - [x] Squared
         - [x] Mastercam
         - [x] G-Code
-        - [ ] Faced
-        - [ ] Critical Features Machined       
+        - [x] Faced
+        - [x] Critical Features Machined       
         - [x] Finising
   - [ ] Completed Seal Plates
     - [ ] Upper Seal Plate
        - [x] .SLDPRT
-       - [ ] Squared
+       - [x] Squared
        - [ ] Mastercam
        - [ ] G-Code
        - [ ] Faced
@@ -34,7 +31,7 @@
        - [ ] Finising
     - [ ] Lower Seal Plate 
       - [x] .SLDPRT
-      - [ ] Squared
+      - [x] Squared
       - [ ] Mastercam
       - [ ] G-Code
       - [ ] Faced
