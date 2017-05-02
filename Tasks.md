@@ -3,6 +3,9 @@
 
 - [ ] Completed Pump System 
   - [ ] Impellers - James please update 
+  - [ ] Diffuser inserts
+    - [x] Stock printed
+    - [ ] Post processing
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
         - [x] .SLDPRT
