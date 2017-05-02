@@ -31,7 +31,7 @@ James Luce          | @luceja         | Thermal/fluids Engineer
 
 1. Design and bench test a technology development platform for the electric pump system.
 2. Design and test a custom power system for EFS motor and system controls.
-3. Design for the existing LFE (target chamber pressure of 350 - 400 psi)
+3. Design for the existing LV4 liquid fuel engine (target chamber pressure of 350 - 400 psi)
 4. The pump must be constructed from COTS components.
 5. Parallel work with Carbon Fiber Propellant Tank (CFPT) team to optimize vehicle integration.
 6. IPython design tool to generate pump requirements based on engine/vehicle level parameters.    
