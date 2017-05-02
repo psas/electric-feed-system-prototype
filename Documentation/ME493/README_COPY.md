@@ -9,7 +9,7 @@ Document-date: 28 April 2017
 
 # Electric Feed System
 
-![](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/Team5.PNG)
+![](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/team5.PNG)
 
 ### Objective:
 
