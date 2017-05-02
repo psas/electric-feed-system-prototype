@@ -1,9 +1,10 @@
-﻿---
-Title: Electric Feed System
-Sponsor: Portland State Aerospace Society
-Sponsor_url: http://psas.pdx.edu/
-Github Repo: https://github.com/psas/electric-feed-system
-Document-date: 28 April 2017
+
+---
+title: "Electric Feed System"
+sponsor: "Portland State Aerospace Society"
+sponsor URL: http://psas.pdx.edu/
+GitHub Repo: https://github.com/psas/electric-feed-system
+Document Date: April 28, 2017
 ---
 
 
