@@ -2,46 +2,78 @@
 ### MANUFACTURING
 
 - [ ] Completed Pump System 
+  - [x] jig for pump plates 
+       - [x] .SLDPRT
+           - [x] coordiante system (corner of jig)
+          - [x] .iges
+        - [x] Squared
+        - [x] Mastercam
+        - [x] G-Code
+        - [x] Faced
+        - [x] Critical Features Machined
+        - [x] Finishing
   - [ ] Impellers - James please update 
+    - [ ] jig 
+      - [ ] 6
+      - [ ] 8
+      - [ ] 10
+    - [ ] reaming bores
+      - [ ] 6
+      - [ ] 8
+      - [ ] 10
+    - [ ] Turning boss
+      - [ ] 6
+      - [ ] 8
+      - [ ] 10
   - [ ] Diffuser inserts
     - [x] Stock printed
     - [ ] Post processing
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
         - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
         - [x] Squared
         - [ ] Mastercam
         - [ ] G-Code
         - [ ] Faced
         - [ ] Critical Features Machined
-        - [ ] Finising
+        - [ ] Finishing
      - [x] Lower Bearing Plate
         - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
         - [x] Squared
         - [x] Mastercam
         - [x] G-Code
         - [x] Faced
         - [x] Critical Features Machined       
-        - [x] Finising
+        - [x] Finishing
   - [ ] Completed Seal Plates
     - [ ] Upper Seal Plate
        - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
        - [x] Squared
        - [ ] Mastercam
        - [ ] G-Code
        - [ ] Faced
        - [ ] Critical Features Machined
-       - [ ] Finising
+       - [ ] Finishing
     - [ ] Lower Seal Plate 
       - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
       - [x] Squared
       - [ ] Mastercam
       - [ ] G-Code
       - [ ] Faced
       - [ ] Critical Features Machined
-      - [ ] Finising
+      - [ ] Finishing
   - [ ] Housing 
      - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
@@ -50,15 +82,22 @@
      - [ ] Finising
   - [ ] Shaft 
      - [x] .SLDPRT
-     - [ ] Squared
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
+  - [ ] Diffuser outlet flange 
+     - [x] .SLDPRT
+     - [ ] Critical Features Machined
+         - [ ] Drill bolt pattern 
+     - [ ] Finising
 - [ ] Completed Motor Assembly
-   - [ ] Motor Hub
-     - [ ] .SLDPRT
+   - [ ] Motor Mount Hub 
+     - [x] .SLDPRT
+         - [ ] coordiante system (corner of jig)
+         - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
@@ -66,7 +105,9 @@
      - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Motor Mount
-     - [ ] .SLDPRT
+     - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
@@ -74,15 +115,13 @@
      - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Motor Rest
-     - [ ] .SLDPRT
-     - [ ] Squared
-     - [ ] Mastercam
-     - [ ] G-Code
-     - [ ] Faced
-     - [ ] Critical Features Machined
-     - [ ] Finising
+     - [ ] spec - determined features of size, length 
+     - [ ] material - could jsut be wood
+     - [ ] fabricated 
    - [ ] Torque Arm
-     - [ ] .SLDPRT
+     - [x] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
@@ -91,6 +130,8 @@
      - [ ] Finising
    - [ ] Assebly Base Plate
      - [ ] .SLDPRT
+          - [ ] coordiante system (corner of jig)
+          - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
