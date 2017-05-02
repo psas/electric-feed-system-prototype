@@ -4,38 +4,38 @@
 - [ ] Completed Pump System
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
-         - [ ] .SLDPRT
+        - [x] .SLDPRT
         - [ ] Mastercam
         - [ ] G-Code
         - [ ] Machined
         - [ ] Finising
-     - [ ] Lower Bearing Plate
-       - [ ] .SLDPRT
-        - [ ] Mastercam
-        - [ ] G-Code
-        - [ ] Machined
-        - [ ] Finising
+     - [x] Lower Bearing Plate
+        - [x] .SLDPRT
+        - [x] Mastercam
+        - [x] G-Code
+        - [x] Machined
+        - [x] Finising
   - [ ] Completed Seal Plates
     - [ ] Upper Seal Plate
-      - [ ] .SLDPRT
+       - [x] .SLDPRT
        - [ ] Mastercam
        - [ ] G-Code
        - [ ] Machined
       - [ ] Finising
     - [ ] Lower Seal Plate 
-      - [ ] .SLDPRT
+      - [x] .SLDPRT
       - [ ] Mastercam
       - [ ] G-Code
       - [ ] Machined
       - [ ] Finising
   - [ ] Housing 
-     - [ ] .SLDPRT
+     - [x] .SLDPRT
      - [ ] Mastercam
      - [ ] G-Code
      - [ ] Machined
      - [ ] Finising
   - [ ] Shaft 
-     - [ ] .SLDPRT
+     - [x] .SLDPRT
      - [ ] Mastercam
      - [ ] G-Code
      - [ ] Machined
