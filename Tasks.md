@@ -1,82 +1,109 @@
 
 ### MANUFACTURING
 
-- [ ] Completed Pump System
+- [ ] Completed Pump System 
+  - [ ] Impellers - James please update 
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
         - [x] .SLDPRT
+        - [ ] Squared
         - [ ] Mastercam
         - [ ] G-Code
-        - [ ] Machined
+        - [ ] Faced
+        - [ ] Critical Features Machined
         - [ ] Finising
      - [x] Lower Bearing Plate
         - [x] .SLDPRT
+        - [ ] Squared
         - [x] Mastercam
         - [x] G-Code
-        - [x] Machined
+        - [ ] Faced
+        - [ ] Critical Features Machined       
         - [x] Finising
   - [ ] Completed Seal Plates
     - [ ] Upper Seal Plate
        - [x] .SLDPRT
+       - [ ] Squared
        - [ ] Mastercam
        - [ ] G-Code
-       - [ ] Machined
-      - [ ] Finising
+       - [ ] Faced
+       - [ ] Critical Features Machined
+       - [ ] Finising
     - [ ] Lower Seal Plate 
       - [x] .SLDPRT
+      - [ ] Squared
       - [ ] Mastercam
       - [ ] G-Code
-      - [ ] Machined
+      - [ ] Faced
+      - [ ] Critical Features Machined
       - [ ] Finising
   - [ ] Housing 
      - [x] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
   - [ ] Shaft 
      - [x] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
 - [ ] Completed Motor Assembly
    - [ ] Motor Hub
      - [ ] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Motor Mount
      - [ ] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Motor Rest
      - [ ] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Torque Arm
      - [ ] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Assebly Base Plate
      - [ ] .SLDPRT
+     - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
-     - [ ] Machined
+     - [ ] Faced
+     - [ ] Critical Features Machined
      - [ ] Finising
   
 
 ###### *Documentation*
 
 - [ ] Manufacturing Methods/procedures
-- [ ] EFS Part drawings
+- [ ] EFS Working drawings
+   - [ ] Assemblies
+        - [ ] Pump
+        - [ ] Motor Mount
+        - [ ] Full Assembly
     - [ ] Housing 
     - [ ] Upper Seal Plate
     - [ ] Lower Seal Plate 
