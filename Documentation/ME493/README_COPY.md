@@ -1,19 +1,19 @@
-﻿--
+﻿---
 Title: Electric Feed System
 Sponsor: Portland State Aerospace Society
 Sponsor_url: http://psas.pdx.edu/
 Github Repo: https://github.com/psas/electric-feed-system
 Document-date: 28 April 2017
---
+---
 
 
 # Electric Feed System
 
-### Objective
+### Objective:
 
 The objective of the EFS project is to design, build, and test an electric feed system using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine prototype by June 6, 2017.
 
-### Project Team Members
+### Project Team Members:
 
 Name                | GitHub Username | Current Role
 --------------------|-----------------|-----------------------------------
@@ -44,7 +44,7 @@ James Luce          | @luceja         | Thermal/fluids Engineer
     - Cold fire LOX testing
     - Hot  fire LOX testing
 
-### Design Challenges
+### Design Challenges:
 
 To name a few...
 1. Need for a simple, lightweight, and easily manufactured pump suited to produce high heads at low flow  rates.
@@ -62,3 +62,7 @@ To name a few...
 4. Completed EFS water test assembly with part drawings and 3-axis CNC machine code for reproducibility.
 5. Evaluation of pump performance and accompanying documentation e.g., Performance curves, BEP, spec sheets, future work.
 6. Open Source GitHub repository.
+
+
+
+![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
