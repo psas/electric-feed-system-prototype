@@ -31,8 +31,8 @@
   - [ ] Completed Bearing Plates
     - [ ] Upper Bearing Plate
         - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
         - [x] Squared
         - [ ] Mastercam
         - [ ] G-Code
@@ -41,8 +41,8 @@
         - [ ] Finishing
      - [x] Lower Bearing Plate
         - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
         - [x] Squared
         - [x] Mastercam
         - [x] G-Code
@@ -52,8 +52,8 @@
   - [ ] Completed Seal Plates
     - [ ] Upper Seal Plate
        - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
        - [x] Squared
        - [ ] Mastercam
        - [ ] G-Code
@@ -62,8 +62,8 @@
        - [ ] Finishing
     - [ ] Lower Seal Plate 
       - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
       - [x] Squared
       - [ ] Mastercam
       - [ ] G-Code
@@ -72,8 +72,8 @@
       - [ ] Finishing
   - [ ] Housing 
      - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
      - [ ] Squared
      - [ ] Mastercam
      - [ ] G-Code
@@ -82,7 +82,7 @@
      - [ ] Finising
   - [ ] Shaft 
      - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
+          - [ ] coordiante system
           - [ ] .iges
      - [ ] Mastercam
      - [ ] G-Code
