@@ -1,19 +1,93 @@
 
 ### MANUFACTURING
 
-- [ ] Completed Impeller shaft
-- [ ] Completed Bearing plates
-- [ ] Completed Housing base
-- [ ] Completed Housing center
-- [ ] Completed pump housing base
-- [ ] Completed pump housing lid
-- [ ] Completed Seal plates
-- [ ] Completed Motor mount
+- [ ] Completed Pump System
+  - [ ] Completed Bearing Plates
+   - [ ] Upper Bearing Plate
+      - [ ] .SLDPRT
+      - [ ] Mastercam
+      - [ ] G-Code
+      - [ ] Machined
+      - [ ] Finising
+   - [ ] Lower Bearing Plate
+      - [ ] .SLDPRT
+      - [ ] Mastercam
+      - [ ] G-Code
+      - [ ] Machined
+      - [ ] Finising
+  - [ ] Completed Seal Plates
+    - [ ] Upper Seal Plate
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+    - [ ] Lower Seal Plate 
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+  - [ ] Housing 
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+  - [ ] Shaft 
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+- [ ] Completed Motor Assembly
+   - [ ] Motor Hub
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+   - [ ] Motor Mount
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+   - [ ] Motor Rest
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+   - [ ] Torque Arm
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+   - [ ] Assebly Base Plate
+     - [ ] .SLDPRT
+     - [ ] Mastercam
+     - [ ] G-Code
+     - [ ] Machined
+     - [ ] Finising
+  
 
 ###### *Documentation*
 
 - [ ] Manufacturing Methods/procedures
 - [ ] EFS Part drawings
+    - [ ] Housing 
+    - [ ] Upper Seal Plate
+    - [ ] Lower Seal Plate 
+    - [ ] Upper Bearing Plate
+    - [ ] Lower Bearing Plate
+    - [ ] Shaft
+    - [ ] Motor Hub
+    - [ ] Motor Mount
+    - [ ] Motor Rest
+    - [ ] Torque Arm
+    - [ ] Assebly Base Plate     
 - [ ] CNC g-code files
 - [ ] Photos
 
