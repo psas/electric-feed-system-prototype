@@ -106,10 +106,10 @@
      - [ ] Finising
    - [ ] Motor Mount
      - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
-     - [ ] Squared
-     - [ ] Mastercam
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
+     - [x] Squared
+     - [x] Mastercam
      - [ ] G-Code
      - [ ] Faced
      - [ ] Critical Features Machined
@@ -120,9 +120,9 @@
      - [ ] fabricated 
    - [ ] Torque Arm
      - [x] .SLDPRT
-          - [ ] coordiante system (corner of jig)
-          - [ ] .iges
-     - [ ] Squared
+          - [x] coordiante system (corner of jig)
+          - [x] .iges
+     - [x] Squared
      - [ ] Mastercam
      - [ ] G-Code
      - [ ] Faced
