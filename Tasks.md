@@ -96,12 +96,10 @@
 - [ ] Completed Motor Assembly
    - [ ] Motor Mount Hub 
      - [x] .SLDPRT
-         - [ ] coordiante system (corner of jig)
-         - [ ] .iges
-     - [ ] Squared
-     - [ ] Mastercam
-     - [ ] G-Code
-     - [ ] Faced
+         - [x] coordiante system (corner of jig)
+         - [x] .iges
+     - [x] Mastercam
+     - [x] G-Code
      - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] Motor Mount
