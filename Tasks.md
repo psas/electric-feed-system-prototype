@@ -85,7 +85,7 @@
      - [ ] G-Code
      - [ ] Critical Features Machined
      - [ ] Finising
-  - [ ] ** Diffuser outlet flange**
+  - [ ] **Diffuser outlet flange**
      - [x] .SLDPRT
      - [ ] Critical Features Machined
          - [ ] Drill bolt pattern 
