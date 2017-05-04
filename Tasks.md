@@ -105,8 +105,7 @@
           - [x] .iges
      - [x] Squared
      - [x] Mastercam
-     - [ ] G-Code
-     - [ ] Faced
+     - [X] G-Code
      - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] **Motor Rest**
