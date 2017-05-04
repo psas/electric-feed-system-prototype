@@ -12,7 +12,7 @@
         - [x] Faced
         - [x] Critical Features Machined
         - [x] Finishing
-  - [ ] **Impellers - James please update **
+  - [ ] **Impellers - James please update**
     - [x] jig 
     - [ ] reaming bores
       - [ ] 6
@@ -47,7 +47,7 @@
         - [x] Critical Features Machined       
         - [x] Finishing
   - [ ] **Completed Seal Plates**
-    - [ ]** Upper Seal Plate**
+    - [ ]**Upper Seal Plate**
        - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -77,7 +77,7 @@
      - [ ] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
-  - [ ] **Shaft **
+  - [ ] **Shaft**
      - [x] .SLDPRT
           - [ ] coordiante system
           - [ ] .iges
