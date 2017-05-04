@@ -57,7 +57,7 @@
        - [ ] Faced
        - [ ] Critical Features Machined
        - [ ] Finishing
-    - [ ] **Lower Seal Plate **
+    - [ ] **Lower Seal Plate**
       - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -67,7 +67,7 @@
       - [ ] Faced
       - [ ] Critical Features Machined
       - [ ] Finishing
-  - [ ] **Housing **
+  - [ ] **Housing**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -85,13 +85,13 @@
      - [ ] G-Code
      - [ ] Critical Features Machined
      - [ ] Finising
-  - [ ] ** Diffuser outlet flange **
+  - [ ] ** Diffuser outlet flange**
      - [x] .SLDPRT
      - [ ] Critical Features Machined
          - [ ] Drill bolt pattern 
      - [ ] Finising
 - [ ] **Completed Motor Assembly**
-   - [ ]**Motor Mount Hub** 
+   - [ ] **Motor Mount Hub** 
      - [x] .SLDPRT
          - [x] coordiante system (corner of jig)
          - [x] .iges
@@ -109,11 +109,11 @@
      - [ ] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
-   - [ ] ** Motor Rest **
+   - [ ] **Motor Rest**
      - [ ] spec - determined features of size, length 
      - [ ] material - could jsut be wood
      - [ ] fabricated 
-   - [ ] ** Torque Arm **
+   - [ ] **Torque Arm**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -123,7 +123,7 @@
      - [ ] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
-   - [ ] ** Assebly Base Plate **
+   - [ ] **Assebly Base Plate** 
      - [ ] .SLDPRT
           - [ ] coordiante system (corner of jig)
           - [ ] .iges
