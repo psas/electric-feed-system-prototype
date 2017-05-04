@@ -47,7 +47,7 @@
         - [x] Critical Features Machined       
         - [x] Finishing
   - [ ] **Completed Seal Plates**
-    - [ ]**Upper Seal Plate**
+    - [ ] **Upper Seal Plate**
        - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
