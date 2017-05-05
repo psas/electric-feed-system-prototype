@@ -1,0 +1,51 @@
+04 May 2017 02:21:58 PM - Report created.
+04 May 2017 02:21:58 PM - Initialize posting log file
+04 May 2017 02:21:58 PM - Using MP run version 18.00 and post components version 18.00
+04 May 2017 02:21:58 PM - Initiate opening the post processor file(s).
+04 May 2017 02:21:58 PM - C:\USERS\PUBLIC\DOCUMENTS\SHARED MCAMX9\MILL\POSTS\MPFAN.PST
+04 May 2017 02:21:58 PM - The post processor file has been successfully opened.
+04 May 2017 02:21:58 PM - Post version information (input):
+04 May 2017 02:21:58 PM - UPDATEPOST Version 18. was used to modify this file.
+04 May 2017 02:21:58 PM - The file was modified by this product on 06 Oct 2015 09:38:49
+04 May 2017 02:21:58 PM - The post was written to run with Mastercam Version 18.
+04 May 2017 02:21:58 PM - The post product type is Mill.
+04 May 2017 02:21:58 PM - Initialization of pre-defined post variables, strings, postblocks was successful.
+04 May 2017 02:21:58 PM - Search for defined post variables, strings, postblocks was successful.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'ltol$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'atol$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'err_file$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'dec_seq_right$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'sub_seq_typ$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'tplanemode$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'nobrk$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'nobrkxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'nobrkyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lnobrk$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lnobrkxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lnobrkyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'arcoutput$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'arcoutputxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'arcoutputyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'larcoutput$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'larctypexz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'larcoutputyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'breakarcs$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'breakarcsxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'breakarcsyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lbreakarcs$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lbreakarcsxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lbreakarcsyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'helix_arc$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lhelix_arc$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'do_full_arc$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'do_full_arcxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'do_full_arcyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'ldo_full_arc$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'ldo_full_arcxz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'ldo_full_arcyz$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'rotfeed4$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'rotfeed5$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lrotfeed4$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'lrotfeed5$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - CONTROL DEFINITION - Post variable 'sub_level$' was re-initialized from 0. to 0.
+04 May 2017 02:21:58 PM - Successful completion of posting process!
