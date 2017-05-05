@@ -2,7 +2,7 @@
 ### MANUFACTURING
 
 - [ ] **Completed Pump System**
-  - [x] **jig for pump plates** 
+  - [x] **~~jig for pump plates~~** 
        - [x] .SLDPRT
            - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -31,12 +31,12 @@
           - [x] coordiante system (corner of jig)
           - [x] .iges
         - [x] Squared
-        - [ ] Mastercam
-        - [ ] G-Code
-        - [ ] Faced
+        - [X] Mastercam
+        - [X] G-Code
+        - [ ] Faced 
         - [ ] Critical Features Machined
         - [ ] Finishing
-     - [x] **Lower Bearing Plate**
+     - [x] **~~Lower Bearing Plate~~**
         - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -52,8 +52,8 @@
           - [x] coordiante system (corner of jig)
           - [x] .iges
        - [x] Squared
-       - [ ] Mastercam
-       - [ ] G-Code
+       - [X] Mastercam
+       - [X] G-Code
        - [ ] Faced
        - [ ] Critical Features Machined
        - [ ] Finishing
@@ -62,17 +62,17 @@
           - [x] coordiante system (corner of jig)
           - [x] .iges
       - [x] Squared
-      - [ ] Mastercam
-      - [ ] G-Code
-      - [ ] Faced
+      - [X] Mastercam
+      - [X] G-Code
+      - [ ] Faced - __FIRST THING FRIDAY__
       - [ ] Critical Features Machined
       - [ ] Finishing
   - [ ] **Housing**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
-     - [ ] Squared
-     - [ ] Mastercam
+     - [X] Squared
+     - [X] Mastercam
      - [ ] G-Code
      - [ ] Faced
      - [ ] Critical Features Machined
@@ -85,11 +85,11 @@
      - [ ] G-Code
      - [ ] Critical Features Machined
      - [ ] Finising
-  - [ ] **Diffuser outlet flange**
+  - [X] **~~Diffuser outlet flange~~**
      - [x] .SLDPRT
-     - [ ] Critical Features Machined
+     - [X] Critical Features Machined
          - [ ] Drill bolt pattern 
-     - [ ] Finising
+     - [X] Finising
 - [ ] **Completed Motor Assembly**
    - [ ] **Motor Mount Hub** 
      - [x] .SLDPRT
@@ -97,8 +97,9 @@
          - [x] .iges
      - [x] Mastercam
      - [x] G-Code
-     - [ ] Critical Features Machined
-     - [ ] Finising
+     - [X] CNC
+     - [ ] Manual Milling 
+     - [ ] Finising 
    - [ ] **Motor Mount**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
@@ -106,7 +107,8 @@
      - [x] Squared
      - [x] Mastercam
      - [X] G-Code
-     - [ ] Critical Features Machined
+     - [X] CNC
+     - [ ] Manual mahcining
      - [ ] Finising
    - [ ] **Motor Rest**
      - [ ] spec - determined features of size, length 
@@ -117,8 +119,8 @@
           - [x] coordiante system (corner of jig)
           - [x] .iges
      - [x] Squared
-     - [ ] Mastercam
-     - [ ] G-Code
+     - [X] Mastercam
+     - [X] G-Code
      - [ ] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
