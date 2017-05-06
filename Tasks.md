@@ -33,7 +33,7 @@
         - [x] Squared
         - [X] Mastercam
         - [X] G-Code
-        - [ ] Faced 
+        - [X] Faced - ready for jig 
         - [ ] Critical Features Machined
         - [ ] Finishing
      - [x] **~~Lower Bearing Plate~~**
@@ -64,7 +64,7 @@
       - [x] Squared
       - [X] Mastercam
       - [X] G-Code
-      - [ ] Faced - __FIRST THING FRIDAY__
+      - [X] Faced - __ready for jig__
       - [ ] Critical Features Machined
       - [ ] Finishing
   - [ ] **Housing**
@@ -91,16 +91,16 @@
          - [ ] Drill bolt pattern 
      - [X] Finising
 - [ ] **Completed Motor Assembly**
-   - [ ] **Motor Mount Hub** 
+   - [ ] **~~Motor Mount Hub~~** 
      - [x] .SLDPRT
          - [x] coordiante system (corner of jig)
          - [x] .iges
      - [x] Mastercam
      - [x] G-Code
      - [X] CNC
-     - [ ] Manual Milling 
-     - [ ] Finising 
-   - [ ] **Motor Mount**
+     - [X] Manual Milling 
+     - [X] Finising 
+   - [ ] **~~Motor Mount~~**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -108,8 +108,8 @@
      - [x] Mastercam
      - [X] G-Code
      - [X] CNC
-     - [ ] Manual mahcining
-     - [ ] Finising
+     - [X] Manual mahcining
+     - [X] Finising
    - [ ] **Motor Rest**
      - [ ] spec - determined features of size, length 
      - [ ] material - could jsut be wood
@@ -121,7 +121,7 @@
      - [x] Squared
      - [X] Mastercam
      - [X] G-Code
-     - [ ] Faced
+     - [X] Faced
      - [ ] Critical Features Machined
      - [ ] Finising
    - [ ] **Assebly Base Plate** 
