@@ -2,7 +2,7 @@
 ### MANUFACTURING
 
 - [ ] **Completed Pump System**
-  - [x] **~~jig for pump plates~~** 
+  - [x] **~~jig for pump plates** 
        - [x] .SLDPRT
            - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -11,7 +11,7 @@
         - [x] G-Code
         - [x] Faced
         - [x] Critical Features Machined
-        - [x] Finishing
+        - [x] Finishing~~
   - [ ] **Impellers - James please update**
     - [x] jig 
     - [ ] reaming bores
@@ -36,7 +36,7 @@
         - [X] Faced - ready for jig 
         - [ ] Critical Features Machined
         - [ ] Finishing
-     - [x] **~~Lower Bearing Plate~~**
+     - [x] **~~Lower Bearing Plate**
         - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -45,7 +45,7 @@
         - [x] G-Code
         - [x] Faced
         - [x] Critical Features Machined       
-        - [x] Finishing
+        - [x] Finishing~~
   - [ ] **Completed Seal Plates**
     - [ ] **Upper Seal Plate**
        - [x] .SLDPRT
@@ -57,16 +57,16 @@
        - [ ] Faced
        - [ ] Critical Features Machined
        - [ ] Finishing
-    - [ ] **Lower Seal Plate**
+    - [X] **~~Lower Seal Plate**
       - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
       - [x] Squared
       - [X] Mastercam
       - [X] G-Code
-      - [X] Faced - __ready for jig__
-      - [ ] Critical Features Machined
-      - [ ] Finishing
+      - [X] Faced 
+      - [X] Critical Features Machined
+      - [X] Finishing~~
   - [ ] **Housing**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
@@ -88,10 +88,10 @@
   - [X] **~~Diffuser outlet flange~~**
      - [x] .SLDPRT
      - [X] Critical Features Machined
-         - [ ] Drill bolt pattern 
+         - [X] Drill bolt pattern 
      - [X] Finising
 - [ ] **Completed Motor Assembly**
-   - [ ] **~~Motor Mount Hub~~** 
+   - [X] **~~Motor Mount Hub** 
      - [x] .SLDPRT
          - [x] coordiante system (corner of jig)
          - [x] .iges
@@ -99,8 +99,8 @@
      - [x] G-Code
      - [X] CNC
      - [X] Manual Milling 
-     - [X] Finising 
-   - [ ] **~~Motor Mount~~**
+     - [X] Finising~~ 
+   - [X] **~~Motor Mount**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -109,12 +109,12 @@
      - [X] G-Code
      - [X] CNC
      - [X] Manual mahcining
-     - [X] Finising
+     - [X] Finising~~
    - [ ] **Motor Rest**
      - [ ] spec - determined features of size, length 
      - [ ] material - could jsut be wood
      - [ ] fabricated 
-   - [ ] **Torque Arm**
+   - [X] **~~Torque Arm**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
@@ -122,8 +122,8 @@
      - [X] Mastercam
      - [X] G-Code
      - [X] Faced
-     - [ ] Critical Features Machined
-     - [ ] Finising
+     - [X] Critical Features Machined
+     - [X] Finising~~
    - [ ] **Assebly Base Plate** 
      - [ ] .SLDPRT
           - [ ] coordiante system (corner of jig)
