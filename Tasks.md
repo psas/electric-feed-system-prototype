@@ -111,9 +111,8 @@
      - [X] Manual mahcining
      - [X] Finising
    - [ ] **Motor Rest**
-     - [ ] spec - determined features of size, length 
-     - [ ] material - could jsut be wood
-     - [ ] fabricated 
+     - [x] spec - determined features of size, length 
+     - [ ] 3d print
    - [X] **~~Torque Arm~~**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
@@ -125,8 +124,8 @@
      - [X] Critical Features Machined
      - [X] Finising
    - [ ] **Assebly Base Plate** 
-     - [ ] .SLDPRT
-          - [ ] coordiante system (corner of jig)
+     - [x] .SLDPRT
+          - [ ] coordiante system 
           - [ ] .iges
      - [ ] Squared
      - [ ] Mastercam
