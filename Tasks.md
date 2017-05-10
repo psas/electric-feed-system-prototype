@@ -205,14 +205,14 @@
 ##### ESC and motor Programming:
 
 - [ ] Interface ESC with Data logging system - Wed 5/10
-  - [ ] Troubleshoot ESC software - Monday 5/8
-- [ ] Set ESC Parameters - Monday 5/8
-  - [ ] Program/verify low voltage cut-off (LVC)
-  - [ ] Program/verify cut-off voltage/cell
-  - [ ] Program/verify Brake type parameter
-  - [ ] Program/verify Timing Advance
-  - [ ] Program/verify cut-off/startup type parameter
-  - [ ] Program/verify PWM switching rate
+  - [x] Troubleshoot ESC software - Monday 5/8
+- [x] Set ESC Parameters - Monday 5/8
+  - [x] Program/verify low voltage cut-off (LVC)
+  - [x] Program/verify cut-off voltage/cell
+  - [x] Program/verify Brake type parameter
+  - [x] Program/verify Timing Advance
+  - [x] Program/verify cut-off/startup type parameter
+  - [x] Program/verify PWM switching rate
 - [ ] Control motor and ESC system - Fri 5/12
   - [ ] Debug motor code - Thur 5/11
   - [ ] Troubleshoot any new issues - Thur 5/11
@@ -227,10 +227,10 @@
   - [ ] Acquire high power wattmeter - Mon 5/8
   - [ ] Run motor bench test using wattmeter
 - [ ] Confirm motor RPM feedback - Sun 5/14
-  - [ ] Configure ESC data logging features - Wed 5/10
+  - [ ] ~~Configure ESC data logging features - Wed 5/10~~
   - [ ] Run motor bench test using tachomenter for control - Sun 5/14
 - [ ] Confirm ESC temp feedback - Sun 5/14
-  - [ ] Configure ESC data logging features - Wed 5/10
+  - [ ] ~~Configure ESC data logging features - Wed 5/10~~
   - [ ] Run motor bench test using thermocouple for control - Sun 5/14
 
 ##### EFS Performance Feedback Checks:
@@ -238,15 +238,15 @@
 - [ ] Test/calibrate/verify pressure transducers - Fri 5/12
   - [ ] Assemble plumbing and gauges for sensor calibration - Fri 5/12
   - [ ] Test/calibrate/verify Suction side transducer PT1S - Fri 5/12
-    - [ ] Build PT1s circuit - Tue 5/9
-    - [ ] Integrate DAQ - Tue 5/9
+    - [x] Build PT1s circuit - Tue 5/9
+    - [x] Integrate DAQ - Tue 5/9
   - [ ] Test/calibrate/verify Discharge side transducer PT1D - Fri 5/12
-    - [ ] Build PT1D circuit - Tue 5/9
-    - [ ] Integrate DAQ - Tue 5/9
+    - [x] Build PT1D circuit - Tue 5/9
+    - [x] Integrate DAQ - Tue 5/9
 - [x] Test/calibrate/verify vapor pressure thermocouple TC1S
 - [ ] Test/calibrate/verify flow meter FMD1 - Fri 5/12
-  - [ ] Clean Flow Meter - Mon 5/8
-  - [ ] Acquire new pump for calibration - Mon 5/8
+  - [x] Clean Flow Meter - Mon 5/8
+  - [x] Acquire new pump for calibration - Mon 5/8
   - [ ] Assemble plumbing for calibration - Thur 5/11
   - [ ] Run calibration tests - Thur 5/11
   - [ ] Analyze calibration data - Fri 5/12
