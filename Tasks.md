@@ -170,6 +170,8 @@
 - [ ] Verify/check fits and play in completed pump assembly
 - [ ] Verify/check seals, bearings, and impeller clearances
 
+-[ ] High temperature bearing grease 
+
 ##### Test Stand Plumbing:
 
 - [ ] Size and cut aluminum tubing
