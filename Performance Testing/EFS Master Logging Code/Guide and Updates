@@ -1,0 +1,4 @@
+Delete all files from the SD card mounted to the shield before collecting any new data. Mount the SD shield with the cleared
+SD card, and connect all the respective components, namely, thermocouple (wiring guide available at: https://github.com/psas/electric-feed-system/tree/master/Performance%20Testing/Sensor%20Calibration/Thermocouples),
+pressure transducers (2), and flowmeter (wiring guide available at: TBD).
+Flowmeter part of the code is subject to change, and will be updated accordingly.
