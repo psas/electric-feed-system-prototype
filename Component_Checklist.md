@@ -10,12 +10,12 @@
 - [x] Test Impellers
 - [x] Impeller dowel
 - [ ] Impeller shaft
-- [ ] Bearing plate
+- [x] Bearing plate
 - [ ] Housing base
 - [ ] Housing center
 - [ ] Housing top
-- [ ] Seal plates
-- [ ] Motor mount
+- [x] Seal plates
+- [x] Motor mount
 - [x] Shaft coupler
 - [x] Various fasteners
 - [x] Seals and bearings
