@@ -46,17 +46,17 @@
         - [x] Faced
         - [x] Critical Features Machined       
         - [x] Finishing
-  - [ ] **Completed Seal Plates**
-    - [ ] **Upper Seal Plate**
+  - [X] **~~Completed Seal Plates~~**
+    - [X] **~~Upper Seal Plate~~**
        - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
        - [x] Squared
        - [X] Mastercam
        - [X] G-Code
-       - [ ] Faced
-       - [ ] Critical Features Machined
-       - [ ] Finishing
+       - [X] Faced
+       - [X] Critical Features Machined
+       - [X] Finishing
     - [X] **~~Lower Seal Plate~~**
       - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
@@ -123,16 +123,16 @@
      - [X] Faced
      - [X] Critical Features Machined
      - [X] Finising
-   - [ ] **Assebly Base Plate** 
+   - [x] **~~Assebly Base Plate~~** 
      - [x] .SLDPRT
-          - [ ] coordiante system 
-          - [ ] .iges
-     - [ ] Squared
-     - [ ] Mastercam
-     - [ ] G-Code
-     - [ ] Faced
-     - [ ] Critical Features Machined
-     - [ ] Finising
+          - [X] coordiante system 
+          - [X] .iges
+     - [X] Squared
+     - [X] Mastercam
+     - [X] G-Code
+     - [X] Faced
+     - [X] Critical Features Machined
+     - [X] Finising
   
 
 ###### *Documentation*
