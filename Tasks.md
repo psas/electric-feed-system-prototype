@@ -67,23 +67,23 @@
       - [X] Faced 
       - [X] Critical Features Machined
       - [X] Finishing
-  - [ ] **Housing**
+  - [X] **~~Housing~~**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
           - [x] .iges
      - [X] Squared
      - [X] Mastercam
-     - [ ] G-Code
-     - [ ] Faced
-     - [ ] Critical Features Machined
-     - [ ] Finising
+     - [X] G-Code
+     - [X] Faced
+     - [X] Critical Features Machined
+     - [X] Finising
   - [ ] **Shaft**
      - [x] .SLDPRT
-          - [ ] coordiante system
-          - [ ] .iges
-     - [ ] Mastercam
-     - [ ] G-Code
-     - [ ] Critical Features Machined
+          - [x] coordiante system
+          - [x] .iges
+     - [x] Mastercam
+     - [x] G-Code
+     - [x] Critical Features Machined
      - [ ] Finising
   - [X] **~~Diffuser outlet flange~~**
      - [x] .SLDPRT
@@ -110,9 +110,9 @@
      - [X] CNC
      - [X] Manual mahcining
      - [X] Finising
-   - [ ] **Motor Rest**
+   - [x] **~~Motor Rest~~**
      - [x] spec - determined features of size, length 
-     - [ ] 3d print
+     - [x] 3d print
    - [X] **~~Torque Arm~~**
      - [x] .SLDPRT
           - [x] coordiante system (corner of jig)
