@@ -22,7 +22,7 @@ Name                | GitHub Username | Current Role
 --------------------|-----------------|-----------------------------------
 Jordan Roland       | @JSRoland       | Project Coordinator
 Johnny C. Froehlich | @JordParma      | Design Engineer; Testing
-Mimi Shang          | @mimishang      | Control Systems Engineer; Testing
+Mimi Shang          | @mimishang      | Control Systems Engineer
 Johnathan Talik     | @jtalik         | Manufacturing Engineer
 Rawand Rasheed      | @rawand12       | Control Systems Engineer
 James Luce          | @luceja         | Thermal/fluids Engineer
@@ -48,6 +48,8 @@ James Luce          | @luceja         | Thermal/fluids Engineer
     - Hot  fire LOX testing
 
 ### Design Challenges:
+
+The EFS pump can be described as a semi-open, partial emissions impeller type and is exemplified as highly unorthodox. Reasons exist, however, to break with conventional design practice to meet objectives which would otherwise be difficult to achieve. These difficult to achieve objectives include a pump capable of high-head low-flow processes at high shaft rotational speeds. Intentionally flaunting the rules, in fact, may provide a pump design that can equal or exceed the performance of conventional pumps in the head-flow design range for which it is intended and for which it is best suited. An overview of some of the many challenges involved in producing such a pump are listed below;
 
 To name a few...
 1. Need for a simple, lightweight, and easily manufactured pump suited to produce high heads at low flow  rates.
