@@ -61,8 +61,16 @@ To name a few...
 
 ### Outcomes:
 
+The expected outcomes of the PSAS EFS capstone project are as follows.  
+
 1. Detailed design explanation.
+
+This document is geared towards leaving fellow PSAS engineers with a complete overview of the detailed design process for further work and scaling. This document includes the theory that when into developing the EFS system
+
 2. EFS technology development platform.
+
+The EFS technology development platform is to serve as a completed unit for future development of the electric feed system. The platform allows for the continued testing of EFS, modification to EFS components and subsystems,
+
 3. Manufacturing/controls/testing procedures.
 4. Completed EFS water test assembly with part drawings and 3-axis CNC machine code for reproducibility.
 5. Evaluation of pump performance and accompanying documentation e.g., Performance curves, BEP, spec sheets, future work.
