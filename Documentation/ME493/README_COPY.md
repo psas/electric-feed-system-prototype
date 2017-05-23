@@ -1,12 +1,10 @@
-
 ---
-title: "Electric Feed System"
-sponsor: "Portland State Aerospace Society"
-sponsor URL: http://psas.pdx.edu/
-GitHub Repo: https://github.com/psas/electric-feed-system
-Document Date: April 28, 2017
+layout: Project
+title: Electric Feed System
+sponsor: Portland State Aerospace Society
+sponsor_url: https://github.com/psas
+document-date: 20 May 2017
 ---
-
 
 # Electric Feed System
 
@@ -53,15 +51,25 @@ The EFS pump can be described as a semi-open, partial emissions impeller type an
 
 To name a few...
 1. Need for a simple, lightweight, and easily manufactured pump suited to produce high heads at low flow  rates.
+
+
 2. Engine/vehicle requirements define the need for a feed system that is a radical departure from conventional design.
+
+
 3. Using an unorthodox Barske open impeller design.
+
+
 4. Hardware is physically small.
+
+
 5. Shaft deflection, key stresses, fits for mounted components, and rotor dynamics must be seriously considered.
+
+
 6. Simplifying a detailed fabrication process.
 
 ### Outcomes:
 
-The expected outcomes of the PSAS EFS capstone project are as follows.  
+The expected outcomes of the PSAS EFS capstone project are as follows;
 
 1. Detailed design explanation.
 
@@ -69,11 +77,19 @@ This document is geared towards leaving fellow PSAS engineers with a complete ov
 
 2. EFS technology development platform.
 
-The EFS technology development platform is to serve as a completed unit for future development of the electric feed system. The platform allows for the continued testing of EFS, modification to EFS components and subsystems,
+The EFS technology development platform is to serve as a completed unit for future development of the electric feed system. The platform, which includes the EFS pump and test apparatus allows for the continued testing of EFS, scaled EFS pumps and modification to EFS components and subsystems.
 
 3. Manufacturing/controls/testing procedures.
+
+
 4. Completed EFS water test assembly with part drawings and 3-axis CNC machine code for reproducibility.
+
+
 5. Evaluation of pump performance and accompanying documentation e.g., Performance curves, BEP, spec sheets, future work.
+
+The EFS pump performance curves will Identify the best operating point (BEP) of the system. Complete and reliable performance curves will allow for the evaluation of the EFS system, more importantly it will allow for the use of pump scaling laws (affinity laws) which otherwise would be inapplicable. The use of scaling laws will allow PSAS to take the EFS pump and scale it up for larger rockets in the future.
+
+
 6. Open Source GitHub repository.
 
 
