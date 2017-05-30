@@ -1,2 +1,0 @@
-This file contains the circuit and code used to measure the rotational frequency on the Potter Aerospace Company turbine flow meter. The code and circuit can be used to calibrate cryogenic, and non-cryogenic fluids. Calibrate rotational frequency against known flowrates of your respective fluid. Calibrations are unique to the fluid and its properties (ie. LOX calibration will not give accurate flowrate measurements for water and vice versa).
-Calibration curve for water will be made available here.
