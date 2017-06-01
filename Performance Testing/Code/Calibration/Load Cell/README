@@ -1,5 +1,7 @@
 An HX711 load cell amplifer and generic load cell are used in the EFS torque load measurement system. Code and github attached in this folder are for the HX711 load cell amplifier.
+
 The github page, where code and calibration instructions for the load cell and amplifier pair are located, can be found at: https://github.com/bogde/HX711
+
 The code included in this folder is the calibration code, with the associated calibration factor found from calbration the load cell with known weights.
 
 USEFUL LINKS:
