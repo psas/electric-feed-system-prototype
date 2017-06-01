@@ -28,11 +28,11 @@ The goal of the EFS project is to design, build, and test an electric feed syste
 Name                | GitHub Username | Current Role
 --------------------|-----------------|-----------------------------------
 Jordan Roland       | @JSRoland       | Project Coordinator
-Johnny C. Froehlich | @JordParma      | Design Engineer; Testing
-Mimi Shang          | @mimishang      | Control Systems Engineer; Testing
+Johnny C. Froehlich | @JordParma      | Principle Investigator; Testing
+Mimi Shang          | @mimishang      | Control Systems Engineer
 Johnathan Talik     | @jtalik         | Manufacturing Engineer
 Rawand Rasheed      | @rawand12       | Control Systems Engineer
-James Luce          | @luceja         | Thermal/fluids Engineer
+James Luce          | @luceja         | Thermal/fluids/Materials Engineer
 
 ### Important links
 
