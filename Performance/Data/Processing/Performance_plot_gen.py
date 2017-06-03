@@ -57,7 +57,7 @@ xs3 = np.linspace(2.5, 10, 1000)
 sp3.set_smoothing_factor(200)
 
 #################################################################################
-params = {'axes.labelsize': 22,'axes.titlesize':1, 'font.size': 20, 'legend.fontsize': 20, 'xtick.labelsize': 22, 'ytick.labelsize': 22}
+params = {'axes.labelsize': 32,'axes.titlesize':1, 'font.size': 20, 'legend.fontsize': 24, 'xtick.labelsize': 28, 'ytick.labelsize': 28}
 plt.rcParams.update(params)
 
 host = host_subplot(111, axes_class=AA.Axes)
@@ -111,10 +111,10 @@ par3.axis["right"].label.set_color(p4.get_color())
 
 plt.plot([8.97, 8.97], [0, 750], color='black', linewidth=2.5, linestyle="--")
 plt.scatter([8.97, ], 446.438, color='red', s = 90)
-plt.scatter([8.97, ], 232.97, color='red', s = 75)
-plt.scatter([8.97, ], 96, color='red', s = 75)
-plt.scatter([2.49, ], 646, color='black', s = 75)
-plt.scatter([10, ], 369, color='black', s = 75)
+plt.scatter([8.97, ], 232.97, color='red', s = 90)
+plt.scatter([8.97, ], 96, color='red', s = 90)
+plt.scatter([2.49, ], 646, color='black', s = 90)
+plt.scatter([10, ], 369, color='black', s = 90)
 
 # Point Moarkers
 plt.annotate('Best Operating Point',
