@@ -1,6 +1,6 @@
 import numpy as np
-import plotly.plotly as py
-import plotly.graph_objs as go
+#import plotly.plotly as py
+#import plotly.graph_objs as go
 from matplotlib.ticker import AutoMinorLocator, MultipleLocator, FuncFormatter
 import matplotlib.pyplot as plt
 from matplotlib import pylab
@@ -12,6 +12,7 @@ def readMyFile(filename):
     flow_s = []
     flow = []
     head = []
+    NPSH = []
 
     with open('17500.csv') as csvDataFile:
         csvReader = csv.reader(csvDataFile, quoting=csv.QUOTE_NONNUMERIC)
@@ -20,12 +21,14 @@ def readMyFile(filename):
             flow_s.append(row[1])
             flow.append(row[2])
             head.append(row[3])
-    return np.array(head_s), np.array(flow_s), np.array(flow), np.array(head)
+            NPSH.append(row[5])
+    return np.array(head_s), np.array(flow_s), np.array(flow), np.array(head), np.array(NPSH)
 
-head_s, flow_s, flow, head = readMyFile("17500,csv")
+head_s, flow_s, flow, head, NPSH = readMyFile("17500,csv")
 
 head = np.delete(head, np.where(head == '')[0])
 flow = np.delete(flow, np.where(flow == '')[0])
+NPSH = np.delete(NPSH, np.where(NPSH == '')[0])
 
 # Remove point beyond run-out
 flow_adj = (flow[1:])
@@ -34,6 +37,7 @@ head_adj = (head[1:])
 print(len(flow_s), len(head_s))
 print(len(flow), len(head))
 print(len(flow_adj), len(head_adj))
+print(len(flow), len(NPSH))
 
 # Trend lines
 spl = UnivariateSpline(sorted(flow_adj), sorted(head_adj, reverse = True))
@@ -45,10 +49,11 @@ spl.set_smoothing_factor(100)
 plt.figure(figsize=(10, 6), dpi=80)
 plt.plot(xs, spl(xs), 'k--', lw=2.5)
 plt.plot(flow_s, head_s, 'k-', lw=2.5, label = 'System')
+plt.plot(flow, NPSH, 'k-', lw=2.5, label = 'NPSHr')
 
 #################################################################################
-
 # Annotations
+
 # plt.plot([8.96, 8.96], [0, 449.438], color='red', linewidth=2.5, linestyle="--")
 plt.scatter([8.9612, ], 449.438, color='red', s = 100)
 plt.annotate('BEP',
