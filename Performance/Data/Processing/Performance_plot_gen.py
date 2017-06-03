@@ -121,11 +121,11 @@ plt.annotate('Best Operating Point',
              xy=(9, 650), xycoords='data',
              xytext=(-300, 50), textcoords='offset points', fontsize=22,
              arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.1", linewidth=2))
-plt.annotate('Shut-Off Head',
+plt.annotate('Run-Out',
              xy=(10, 370), xycoords='data',
              xytext=(25, 75), textcoords='offset points', fontsize=22,
              arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.07", linewidth=2))
-plt.annotate('Run-Out',
+plt.annotate('Shut-Off Head',
              xy=(2.49, 647), xycoords='data',
              xytext=(25, 75), textcoords='offset points', fontsize=22,
              arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.07", linewidth=2))
