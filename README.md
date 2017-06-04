@@ -3,6 +3,8 @@
 
 The goal of the EFS project is to design, build, and test an electric feed system using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine prototype by June 6, 2017.
 
+![](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/team5.PNG)
+
 ## EFS Requirements:
 
 1. Design and bench test a technology development platform for the electric pump system.
@@ -27,12 +29,12 @@ The goal of the EFS project is to design, build, and test an electric feed syste
 
 Name                | GitHub Username | Current Role
 --------------------|-----------------|-----------------------------------
-Jordan Roland       | @JSRoland       | Project Coordinator
-Johnny C. Froehlich | @JordParma      | Design Engineer; Testing; Analysis
-Mimi Shang          | @mimishang      | Control Systems Engineer
+Johnny C. Froehlich | @JordParma      | Design Engineer; Analysis; Testing
 Johnathan Talik     | @jtalik         | Manufacturing Engineer; Design; Testing
-Rawand Rasheed      | @rawand12       | Control Systems Engineer
-James Luce          | @luceja         | Thermal/fluids/Materials Engineer; Testing
+James A. Luce       | @luceja         | Thermal/fluids Engineer; Controls
+Rawand Rasheed      | @rawand12       | 
+Jordan Roland       | @JSRoland       | 
+Mimi Shang          | @luceja         | 
 
 ### Important links
 
