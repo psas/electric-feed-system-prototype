@@ -3,7 +3,7 @@
 
 The goal of the EFS project is to design, build, and test an electric feed system using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine prototype by June 6, 2017.
 
-![](https://github.com/psas/electric-feed-system/blob/master/Documentation/Images/team5.PNG)
+![](https://github.com/psas/electric-feed-system/blob/master/Doc/git_Images/ReadMe_render.jpg)
 
 ## EFS Requirements:
 
