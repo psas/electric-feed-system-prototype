@@ -6,7 +6,6 @@
 ---
 
 2. **Problem description** @JordParma
-
 - Motivation: Why should we care
 - Project Objective Statement: Goal in a nutshell
 
@@ -14,38 +13,61 @@
 
 - [ ] Who is PSAS and what is their goal / Rockets are hard
 - [ ] To achieve this goal we need new technology
-- [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor?
+- [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
+- [ ] 
 
 ---
 
 3. **Key Customer requirements** @JordParma
-
 - Show just the most important customer requirements
-- Make sure that the customer requirements are not only important, but clearly understandable to the (smart, professional)       audience
+- Make sure that the customer requirements are not only important, but clearly understandable to the (smart, professional)   audience
 
 ##### Slides:
 
-- [ ] Outline of high level reqs. and dicription (Words in tables)
-- [ ] How does each one contribute to the success of the project?
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
 4. **Key performance metrics** @JordParma
-
-- How did we measure design outcomes so that it meets customer requirements
+- How did measure design outcomes so that it meets customer requirements
 
 ##### Slides:
 
-> Can combine with #3.
-
-- [ ] Show upper and lower limits on metric (Words in tables) 
-
-> Show a yes or no for meeting req ONLY! Performance vs. requirments happens in #9
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
 5. **Biggest challenges and solutions** @jtalik
 - Show one or at most two big problems that you overcame
+
+PROBLEM: Designing and manufacturing a pump in-house
+
+Vehicle requirements and physical/derivered quantites determine the given inputs and design requirements of such a pump.
+No pumps exist that satisfy the requirements of resonable wieght and cost. 
+Therefore, we start from square one with designing and developing a pump.  
+
+
+
+- Impeller/Housing Design 
+	- Non-Conventional Pump design
+
+- Casing Design
+	- Sealing 
+		- High Pressure / High RPMs
+	- Dynamic Considerations
+		- High RPM 
+		- Canteliever Impeller
+
+
+PROBLEM: Testing a pump
+Problems included:
+- Power 
+- Controls
+- Measurement for determining a preformance curve
 
 ##### Slides:
 
@@ -61,19 +83,15 @@ Manufacturing/cost (Shit load of rad problems and solutions) How do we paint tha
 ---
 
 6. **Design concepts** @JordParma
-
 - Give an example of your creative thinking in generating concepts
 - Provide some evidence of how you selected viable concepts
 - Show conceptually how your design works
 
 ##### Slides:
 
-- [ ] Quick, Whats our engineering methodology. Make smart/concrete decisions and smart/concrete quesses. DISAGREE AND COMMIT. 
-      fail until we get what we want.
-- [ ] Use IPYN as an example of quiding ourselves into the realm of required engine/vehical performance
-- [ ] Use IPYN as an example for selecting impeller
-- [ ] Use IPYN as an example for choosing power requirments
-- [ ] Conceptual outline of how the pump works. Pressure, flow, etc. (I FUCKING GOT DIS BOIS)
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
@@ -101,13 +119,12 @@ Manufacturing/cost (Shit load of rad problems and solutions) How do we paint tha
 ---
 
 9. **Final performance vs. Key Customer requirements** @JordParma
-
 - Show how, or to what degree, your design meets the key requirements. This is the second half of the climax of your talk
 - Show proof of how well you have solved your problem
 
 ##### Slides:
 
-- [ ] Lets show these kids some data
+- [ ] 
 - [ ] 
 - [ ] 
 
