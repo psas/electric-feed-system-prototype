@@ -106,32 +106,42 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ---
 
-7. **Subsystems** @jtalik
-
-- Show images of your key subsystem
-- Show how the systems work together to solve the problem
+7. **Final Design and Subsystems breakdown** @jtalik
 
 ##### Slides:
 
-- [ ] 
-- [ ] 
-- [ ] 
+Final design:
+- [ ] High Level
+	-  Flow Diagram of the testing apparatus - Diagram 
+	-  Actual testing assembly - Hig-res photo
 
+Subsystems breakdown:
+- [ ] Pump 
+	- Bearing
+	- Seals 
+	- Hydraulic assembly (volute, impeller, difusser)
+		-Highlight the modular design for testing
+	- Shaft / Coupling
+	- Motor Dynomometer
+	- Motor / ESC / Batteries / motor control 
+
+	- [ ] inlcude quater section - CAD (one on poster)
+	- [ ] include photo of pump w/ casing + motor mount
+	- [ ] include photo of motor control - High res photo (one on poster)
+
+- [ ] Testing
+	- Testing Apparatus
+	- Sensing 
+		- Pressure, Flow, RPM, Torque, ect... 
+	- Data Aquisition 
+		- Ardunino and excel 
+
+	- [ ] Include diagram of testing -  Diagram
+	- [ ] Include high-res photo of testing apparatus - Photo
+	- [ ] Include high res photo of the control / measurement apparatus - Photo 
 ---
 
-8. **Final Design** @jtalik
-
-- Summarize your final design – this is the first half of the climax of your talk
-
-##### Slides:
-
-- [ ] 
-- [ ] 
-- [ ] 
-
----
-
-9. **Final performance vs. Key Customer requirements** @JordParma
+8. **Final performance vs. Key Customer requirements** @JordParma
 
 - Show how, or to what degree, your design meets the key requirements. This is the second half of the climax of your talk.
 - Show proof of how well you have solved your problem
@@ -146,7 +156,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ---
 
-10. **Conclusion – Recap your story** @jtalik
+9. **Conclusion – Recap your story** @jtalik
 
 - Where you started – Customer requirements
 - Where you ended – proof of satisfying customer requirements
@@ -159,7 +169,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ---
 
-11. **Recommendations for next steps** @both
+10. **Recommendations for next steps** @both
 
 - Any unfinished pieces?
 - What you learned
@@ -183,7 +193,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 #### Possible Questions from audience:
 
-1. Why use centrifugal pump
+1. Why use centrifugal pump (vs other high head / low flow like piston)
 2. 
 3. 
 
