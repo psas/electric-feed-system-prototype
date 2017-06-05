@@ -14,7 +14,7 @@
 - [ ] Who is PSAS and what is their goal / Rockets are hard
 - [ ] To achieve this goal we need new technology
 - [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
-- [ ] 
+
 
 ---
 
