@@ -137,3 +137,13 @@ Manufacturing/cost (Shit load of rad problems and solutions) How do we paint tha
 - [ ] 
 
 ---
+
+
+## Notes:
+
+#### Possible Questions from audience:
+
+1. Why use centrifugal pump
+2. 
+3. 
+
