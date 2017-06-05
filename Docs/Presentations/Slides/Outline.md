@@ -1,4 +1,4 @@
-## Story: 
+﻿## Story: 
 
 1. **Brief team introduction** 
 - [ ] Title Slide, Team members introduce stuff
@@ -43,6 +43,31 @@
 
 5. **Biggest challenges and solutions** @jtalik
 - Show one or at most two big problems that you overcame
+
+PROBLEM: Designing and manufacturing a pump in-house
+
+Vehicle requirements and physical/derivered quantites determine the given inputs and design requirements of such a pump.
+No pumps exist that satisfy the requirements of resonable wieght and cost. 
+Therefore, we start from square one with designing and developing a pump.  
+
+
+
+- Impeller/Housing Design 
+	- Non-Conventional Pump design
+
+- Casing Design
+	- Sealing 
+		- High Pressure / High RPMs
+	- Dynamic Considerations
+		- High RPM 
+		- Canteliever Impeller
+
+
+PROBLEM: Testing a pump
+Problems included:
+- Power 
+- Controls
+- Measurement for determining a preformance curve
 
 ##### Slides:
 
