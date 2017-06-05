@@ -77,7 +77,8 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 	Problems:
 	- Motor control 
 	- Sensing and measuring for preformance curves
-		- 3 x Pressure, Temperature, RPM, Torque, Flowrate
+		- 3 x Pressure, Temperature, RPM, Torque, Flowrates
+		
 	Solutions:
 	- Rigged the quadcotper control with tricking the reciever/transiever
 	- Ardunio DAQ
