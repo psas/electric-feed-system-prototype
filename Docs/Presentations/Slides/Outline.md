@@ -8,13 +8,14 @@
 
 ##### Slides:
 
-- [ ] 
-- [ ] 
+- [ ] Who is PSAS and what is their goal / Rockets are hard
+- [ ] To achieve this goal we need new technology
+- [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
 - [ ] 
 
 3. Key Customer requirements
 - Show just the most important customer requirements
-- Make sure that the customer requirements are not only important, but clearly understandable to the (smart, professional) audience
+- Make sure that the customer requirements are not only important, but clearly understandable to the (smart, professional)   audience
 
 ##### Slides:
 
@@ -36,8 +37,13 @@
 
 ##### Slides:
 
+Impeller Caseing 
+- [ ] Radical departure from conventional design. We needed a suitable impeller and caseing.
+- [ ] This is how we solved it. Insanley quick overview of Barske geoometry, concentric partial emissions design
 - [ ] 
-- [ ] 
+
+Manufacturing/cost
+- [ ]
 - [ ] 
 
 6. Design concepts
