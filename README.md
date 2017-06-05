@@ -33,10 +33,15 @@ Johnny C. Froehlich | @JordParma      | Design Engineer; Analysis; Testing
 Johnathan Talik     | @jtalik         | Manufacturing Engineer; Design; Testing
 James A. Luce       | @luceja         | Thermal/fluids Engineer; Controls systems
 Rawand Rasheed      | @rawand12       | Add project role
-Jordan Roland       | @JSRoland       | 
-Mimi Shang          | @luceja         | 
+Jordan Roland       | @JSRoland       | Add project role
+Mimi Shang          | @luceja         | Add project role
+
+
+![Stainless Steel DMLS Impeller Designs](https://github.com/psas/electric-feed-system/blob/master/Doc/Image%20links/Impellers.PNG)
+
+
+
+
 
 ### Important links
 
- - [Cache of NASA 8000-series Special Publication mongoraphs](https://drive.google.com/folderview?id=0B5irBl_D7OtgMHlDUzJMNnBrSWM&usp=sharing)
-   (not publically accessible as of 20170325)
