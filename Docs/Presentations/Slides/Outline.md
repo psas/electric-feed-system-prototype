@@ -52,9 +52,9 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-** Introduction to challenges of designing, manufacturing, and testing a high speed, high head, low flow pump in-house ** 
+**Introduction to challenges of designing, manufacturing, and testing a high speed, high head, low flow pump in-house** 
 
-** 1. Casing Design  **
+**1. Casing Design**
 Problems: 
 - [ ] High RPMS / High Pressure
 - [ ] Alignment / Clearances / Fits 
@@ -76,7 +76,7 @@ Solutions:
 	- CAM software: Mastercam
 	- CNC: 3 axis and Lathe
 
-** 2. Controls / Measurement **
+**2. Controls / Measurement**
 Problems:
 - [ ] Motor control 
 - [ ] Sensing and measuring for preformance curves
@@ -84,6 +84,7 @@ Problems:
 Solutions:
 - [ ] Rigged the quadcotper control with tricking the reciever/transiever
 - [ ] Ardunio DAQ
+
 ---
 
 6. **Design concepts** @JordParma
