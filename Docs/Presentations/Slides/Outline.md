@@ -45,22 +45,45 @@
 > Add yes/no or checkmark for reqs. ONLY. Performance vs. requirments happens in #9
 
 ---
-
 5. **Biggest challenges and solutions** @jtalik
-
 - Show one or at most two big problems that you overcame
+
+PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-Impeller Caseing 
-- [ ] Radical departure from conventional design. We needed a suitable impeller and caseing.
-- [ ] This is how we solved it. Insanley quick overview of Barske geoometry, concentric partial emissions design
-- [ ] 
+** Introduction to challenges of designing, manufacturing, and testing a high speed, high head, low flow pump in-house ** 
 
-Manufacturing/cost (Shit load of rad problems and solutions) How do we paint that picture?
-- [ ]
-- [ ] 
+** 1. Casing Design  **
+Problems: 
+- [ ] High RPMS / High Pressure
+- [ ] Alignment / Clearances / Fits 
+- [ ] Percision execution
 
+Solutions: 
+- [ ] Bearing Arrangment and Selection
+	- Canteliever Bearing Arragnement 
+	A double row, angular contact bearing fixed  in the housing and the shaft, towards the drive side of the saft provides axial and radial support for the shaft. 
+	A single row, deep groove bearing fixed to the shaft, but with axial displacement enabled, provides radial support of the shaft. Due to the enabled axial displacment, angluar dislacement is elminatied, 
+	while shaft displacement can be accounted for, minimizing the stesses in the shaft. 
+ 
+- [ ] Sealing Solution
+	- John Crane type 6
+	- Bushing 
+
+- [ ] In-House Manufacturing 
+	- Learning techniques for achieving alignment: Jig 
+	- CAM software: Mastercam
+	- CNC: 3 axis and Lathe
+
+** 2. Controls / Measurement **
+Problems:
+- [ ] Motor control 
+- [ ] Sensing and measuring for preformance curves
+	- [ ] 3 x Pressure, Temperature, RPM, Torque, Flowrate
+Solutions:
+- [ ] Rigged the quadcotper control with tricking the reciever/transiever
+- [ ] Ardunio DAQ
 ---
 
 6. **Design concepts** @JordParma
