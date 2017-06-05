@@ -37,11 +37,5 @@ Jordan Roland       | @JSRoland       | Add project role
 Mimi Shang          | @luceja         | Add project role
 
 
-![Stainless Steel DMLS Impeller Designs](https://github.com/psas/electric-feed-system/blob/master/Doc/Image%20links/Impellers.PNG)
-
-
-
-
-
 ### Important links
 
