@@ -19,6 +19,7 @@ Electric feed system (EFS) aims to design, build, and test an electric feed syst
     - Complete bill of materials
 
 ## Stretch Goals:
+
 - Integration with existing Liquid Fuelled Engine Test Stand (LFETS)
 - Completed live health monitoring and emergency shutdown provisions
 - Cold fire LN2 testing
@@ -35,7 +36,6 @@ James A. Luce       | @luceja         | Thermal/fluids Engineer; Controls system
 Rawand Rasheed      | @rawand12       | Add project role
 Jordan Roland       | @JSRoland       | Add project role
 Mimi Shang          | @luceja         | Add project role
-
 
 ### Important links
 
