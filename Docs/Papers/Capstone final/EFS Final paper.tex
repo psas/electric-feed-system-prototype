@@ -1,0 +1,152 @@
+\documentclass[11pt,twoside,a4paper,openright]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\definecolor{aaublue}{RGB}{33,26,82}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{caption}
+\captionsetup{%
+  font=footnotesize,
+  labelfont=bf 
+  }
+\usepackage{array,booktabs}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{framed}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[framed,amsmath,thmmarks]{ntheorem}
+\usepackage{dblfloatfix}
+\usepackage{adjustbox}
+\usepackage{layouts}
+
+
+\usepackage[
+  left=0.5in,
+  right=0.5in,
+  bottom=1mm,
+  top= 1in,
+  ]{geometry}
+\usepackage{titlesec}
+\titleformat*{\section}{\normalfont\Large\bfseries
+    }
+\titleformat*{\subsection}{\normalfont\large\bfseries
+    }
+\titleformat*{\subsubsection}{\normalfont\normalsize\bfseries
+    }
+%\titleformat*{\paragraph}{\normalfont\normalsize\bfseries}}
+%\titleformat*{\subparagraph}{\normalfont\normalsize\bfseries}}
+
+
+% configure section titles
+\usepackage{titlesec}
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+\begin{document}
+% custom commands
+\newcommand{\windef}[1]{\subsection*{\underline{DEF:} \normalsize{#1}}} % definition
+\newcommand{\winex}[1]{\subsection*{\underline{EX:} \normalsize{#1}}} % example
+\newcommand{\winsec}[1]{\section*{\underline{\textbf{#1}}}} % section
+\newcommand{\winres}[1]{\begin{math}\Rightarrow\left\{\begin{matrix}#1\end{matrix}\right.\end{math}\hspace{0.2cm}} % result
+\newcommand{\winsys}[1]{\begin{math}\left\{\begin{matrix}#1\end{matrix}\right.\end{math}} % system
+\newcommand{\winero}[1]{\begin{math}\xrightarrow{#1}\end{math}} % row operation
+\newcommand{\winmat}[1]{\begin{math}\begin{bmatrix}#1\end{bmatrix}\end{math}} % matrix
+\newcommand{\winsub}[1]{\subsection*{$\star$\hspace{0.2cm} #1}} % dot
+\newcommand{\step}[1]{\begin{math}\xrightarrow{\text{#1}}\end{math}} % step in a process
+\newcommand{\winrtwo}{\begin{math}\text{R}^\text{2}\end{math}}
+\newcommand{\winrthree}{\begin{math}\text{R}^\text{3}\end{math}}
+\newcommand{\wineq}[1]{\begin{equation}\notag#1\end{equation}}
+\newcommand{\winans}[1]{\begin{equation}\underline{\underline{\notag\boldsymbol{#1}}}\Leftarrow\end{equation}}
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} % Create horizontal rule command with 1 argument of height
+
+\begin{titlepage}
+
+\vfil
+	\centering
+	{\huge\bfseries PSAS Liquid Propellant Rocket Engine
+Electric Feed System\par}
+	\vspace{0.5cm}
+	{\scshape\Large Conceptual Design Progress Report\par}% Insert Document title here
+
+\vspace{2cm}
+
+	{\Large\itshape 	{Jorden Roland, 
+John Froehlich,\\
+James Luce, 
+Mimi Shang,\\
+John Talik, 
+Rawand Rasheed\par}}
+
+\vspace{3cm}
+Faculty advisor:\par
+    \textsc{Ra\'{u}l Bayo\'{a}n Cal}\par
+	Supervised by:\par
+    \textsc{Erin Schmidt}\\
+	and\\
+	\textsc{Andrew Greenberg}
+
+	\vspace{3cm}
+	
+%textwidth in cm: \printinunitsof{cm}\prntlen{\textwidth}
+
+\begin{table*}[!t]
+
+  \begin{tabular}{  p{2cm}  m{13.20337cm}  p{2cm}  }
+  
+\\ \hline
+
+\begin{minipage}{.3\textwidth}
+ \begin{flushleft}
+      \includegraphics[width=0.3\textwidth]{logo.png}
+ \end{flushleft}
+\end{minipage}
+
+&
+
+\begin{center}
+	{Portland State Aerospace Society}\par
+	{Fariborz Maseeh College of Engineering and Computer Science}\par
+	{\large \today \par}
+	\end{center}
+
+&	
+
+\begin{minipage}{.3\textwidth}
+%\begin{flushright}
+      \includegraphics[width=0.3\textwidth]{psas_insignia.png}
+%      \end{flushright}
+    \end{minipage}\\ \hline
+   
+\end{tabular}
+\end{table*}
+
+
+\end{titlepage}
+\newgeometry{top=10mm,bottom=10mm,right=15mm,left=15mm}
+\newpage
+
+\winsec{Nomenclature:}
+
+\centering{
+\begin{tabularx}{1.5\textwidth}{c c c c}\par
+\textbf{Symbol:} & \textbf{Name:} & \textbf{Formula:} & \textbf{Dependecies:}\par
+\end{tabularx}\par
+}
+	
+
+\winsec{Abstract:}   %comment out this line and the next if there is no abstract!!!
+
+\newpage
+\winsec{Introduction:}
+\winsec{Model:}
+\winsec{Results:}
+\winsec{Conclusion:}
+\winsec{Acknowledgments:}
+\winsec{References:}
+
+\end{document}
