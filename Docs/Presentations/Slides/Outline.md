@@ -7,12 +7,16 @@
 
 2. **Problem description** @JordParma
 
-- Motivation: Why should we care
+- Motivation: Why should we care	
+	- Rockets are hard:
+	- The rocket equation and why we care so much about mass
 - Project Objective Statement: Goal in a nutshell
 
 ##### Slides:
 
 - [ ] Who is PSAS and what is their goal / Rockets are hard
+	- Its dangerous to go alone take this:
+		![alt text](https://github.com/psas/electric-feed-system/tree/master/Docs/Presentations/Slides/Images/Diag-1.png "")
 - [ ] To achieve this goal we need new technology
 - [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
 
