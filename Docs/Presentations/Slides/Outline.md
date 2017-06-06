@@ -96,9 +96,9 @@ Subsystems breakdown:
 
 > Can maybe group these three into one or two slides or just the general idea.
 
-- [ ] Use IPYN to demonstrate how we guided ourselves into the realm of our req engine/vehicle performance
-- [ ] Use IPYN to demonstrate selecting viable impeller concept (Maybe move to #5)
-- [ ] Use IPYN to demonstrate determining power requirments
+- [ ] Use IPyNb to demonstrate how we guided ourselves into the realm of our req engine/vehicle performance
+- [ ] Use IPyNb to demonstrate selecting viable impeller concept (Maybe move to #5)
+- [ ] Use IPyNb to demonstrate determining power requirments
 
 - [ ] Show a high level conceptual slide of how the pump works. Pressure/flow transfer etc. (I FUGGIN GOT DIS BOIS)
  
