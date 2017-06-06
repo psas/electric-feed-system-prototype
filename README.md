@@ -3,7 +3,7 @@
 
 Electric feed system (EFS) aims to design, build, and test an electric feed system prototype using COTS parts and in-house manufacturing for the PSAS LV4 liquid fueled bi-propellant rocket engine by June 6, 2017.
 
-![](https://github.com/psas/electric-feed-system/blob/master/Docs/Image%20links/ReadMe_render.jpg)
+![](https://github.com/psas/electric-feed-system/blob/master/Publicity/Photo/IMG_20170531_183947_1_edit.jpg)
 
 
 ## EFS Requirements:
