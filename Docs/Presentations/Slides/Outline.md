@@ -147,7 +147,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 		- CAM software: Mastercam
 		- CNC: 3 axis and Lathe
 		
-	- [ ] Include the picture of the quater section
+	- [ ] Include the picture of the quarter section
 	- [ ] Include the picture of John and Kris on the CNC Hass
 	- [ ] Include picture of James on the CNC Lathe 
 	
