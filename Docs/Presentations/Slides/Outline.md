@@ -1,4 +1,4 @@
-﻿## Story: 
+## Story: 
 
 1. **Brief team introduction** 
 - [ ] Title Slide, Team members introduce stuff
@@ -73,6 +73,12 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 		- Learning techniques for achieving alignment: Jig 
 		- CAM software: Mastercam
 		- CNC: 3 axis and Lathe
+		
+	- [ ] Include the picture of the quater section
+	- [ ] Include the picture of John and Kris on the CNC Hass
+	- [ ] Include picture of James on the CNC Lathe 
+	
+		
 - [ ] Controls / Measurement
 	Problems:
 	- Motor control 
@@ -83,6 +89,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 	- Rigged the quadcotper control with tricking the reciever/transiever
 	- Ardunio DAQ
 
+	- [ ] include picture of the Motor Controller 
 ---
 
 6. **Design concepts** @JordParma
