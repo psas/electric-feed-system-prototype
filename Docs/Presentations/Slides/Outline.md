@@ -17,9 +17,8 @@
 - [ ] Who is PSAS and what is their goal / Rockets are hard
 	- Its dangerous to go alone take this:
 		![alt text](https://github.com/psas/electric-feed-system/blob/master/Docs/Presentations/Slides/Images/Diag-1.PNG)
-- [ ] To achieve this goal we need new technology
 - [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
-
+- [ ] To achieve this goal we need new technology
 
 ---
 
