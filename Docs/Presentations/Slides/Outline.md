@@ -5,7 +5,7 @@
 
 ---
 
-2. **Problem description** @jaluce
+2. **Problem description** @luceja
 
 ##### Slides:
 
@@ -111,7 +111,7 @@ Subsystems breakdown:
 - [ ] What does it mean? Did we hit our mark?
 
 ---
-8. **Biggest challenges and solutions** @jaluce
+8. **Biggest challenges and solutions** @luceja
 - Show one or at most two big problems that you overcame
 
 PROBLEM: Designing, manufacturing, and testing a pump in-house
