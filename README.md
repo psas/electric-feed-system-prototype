@@ -34,7 +34,7 @@ Name                | GitHub Username | Current Role
 Johnny C. Froehlich | @JordParma      | Design Engineer; Analysis; Testing
 Johnathan Talik     | @jtalik         | Manufacturing Engineer; Design; Testing
 James A. Luce       | @luceja         | Thermal/fluids Engineer; Controls systems
-Rawand Rasheed      | @rawand12       | Add project role
+Rawand Rasheed      | @rawand12       | Control Systems Engineer
 Jordan Roland       | @JSRoland       | Add project role
 Mimi Shang          | @luceja         | Add project role
 
