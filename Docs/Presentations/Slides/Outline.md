@@ -118,7 +118,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-- [ ] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
+- [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
 - [ ] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic of critical surfaces
 - [ ] Casing Design  
 	Problems: 
@@ -131,10 +131,6 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 		- Canteliever Bearing Arragnement 
 		A double row, angular contact bearing fixed  in the housing and the shaft, towards the drive side of the saft provides axial and radial support for the shaft. 
 		A single row, deep groove bearing fixed to the shaft, but with axial displacement enabled, provides radial support of the shaft. Due to the enabled axial displacment, angluar dislacement is elminatied, while shaft displacement can be accounted for, minimizing the stesses in the shaft. 
- 
-	- Sealing Solution
-		- John Crane type 6
-		- Bushing 
 
 	- In-House Manufacturing 
 		- Learning techniques for achieving alignment: Jig 
@@ -144,8 +140,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 	- [ ] Include the picture of the quarter section
 	- [ ] Include the picture of John and Kris on the CNC Hass
 	- [ ] Include picture of James on the CNC Lathe 
-	
-		
+			
 - [ ] Controls / Measurement
 	Problems:
 	- Motor control 
@@ -154,7 +149,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 		
 	Solutions:
 	- Rigged the quadcotper control with tricking the reciever/transiever
-	- Ardunio DAQ
+	- Arduino DAQ
 
 	- [ ] include picture of the Motor Controller 
 	
