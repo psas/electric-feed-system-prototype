@@ -119,7 +119,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 ##### Slides:
 
 - [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
-- [ ] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic of critical surfaces
+- [ ] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
 - [ ] Casing Design  
 	Problems: 
 	- High RPMS / High Pressure
