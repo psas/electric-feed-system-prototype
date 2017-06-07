@@ -1,0 +1,65 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : motor mount assembly v6
+Receiving System Product I.D.: motor mount assembly v6
+File Name                    : \\khensu\Home03\jtalik\Desktop\github\electric-feed-system\2.2 kN\CAD\v6 manufacturing\assemblies\motor mount assembly v6.IGS
+Sending System               : SolidWorks 2016
+Preprocessor Version         : SolidWorks 2016
+File Creation Date           : 170606.181803
+Model Creation Date          : 170606.181803
+Units                        : MM
+Model Space Scale            : 1
+Author                       : jtalik
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     14
+  Average number of significant digits:                8.64668
+  Maximum distance to origin:                          19.7303
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            973       973
+110  Line                                          1037      1037
+116  Point                                           30        30
+124  Transformation matrix                          683       683
+126  Rational B-spline curve                        470       470
+308  Subfigure definition                            15        15
+314  Color definition                                13        13
+402  Associativity instance                          77        77
+408  Singular subfigure instance                     31        31
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     0
+Curve/Sketch feature(s)                2512
+--------------------------------------------
+Start time: Tuesday, June 06, 2017 18:18:04
+Finish time: Tuesday, June 06, 2017 18:18:15
+Processing time: 0 days, 00 hours, 00 mins, 11 secs
