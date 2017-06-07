@@ -49,15 +49,15 @@ print(len(flow_adj), len(head_adj))
 # Trend lines
 
 sp4 = UnivariateSpline(flow_adj, sorted(head_adj, reverse = False))
-xs4 = np.linspace(3.75, 10.5, 1000)
+xs4 = np.linspace(3.0, 10.5, 1000)
 sp4.set_smoothing_factor(1000)
 
 sp2 = UnivariateSpline(sorted(flow_adj), effic_adj)
-xs2 = np.linspace(3.75, 10.5, 1000)
-sp2.set_smoothing_factor(1000)
+xs2 = np.linspace(3.0, 10, 1000)
+sp2.set_smoothing_factor(100)
 
 sp3 = UnivariateSpline(sorted(flow_adj), sorted(npsh_adj, reverse = True))
-xs3 = np.linspace(3.75, 10.5, 1000)
+xs3 = np.linspace(3.0, 10.5, 1000)
 sp3.set_smoothing_factor(100)
 
 #################################################################################
@@ -103,7 +103,7 @@ p3, = par2.plot(xs3, sp3(xs3), 'b-', lw=3, label = 'NPSH')
 p4, = par3.plot(xs2, sp2(xs2), 'r-', lw=3, label = 'Efficiency')
 
 # par1.set_ylim(0, 1000)
-par2.set_ylim(20, 60)
+par2.set_ylim(20, 50)
 par3.set_ylim(0, 100)
 
 host.legend()
@@ -117,7 +117,7 @@ par3.axis["right"].label.set_color(p4.get_color())
 #Annotations
 
 plt.plot([9.362, 9.362], [0, 750], color='black', linewidth=2.5, linestyle="--")
-plt.scatter([9.36, ], 533, color='red', s = 110)
+plt.scatter([9.36, ], 533, color='red', s = 200)
 #plt.scatter([8.97, ], 232.97, color='red', s = 90)
 #plt.scatter([8.97, ], 96, color='red', s = 90)
 #plt.scatter([3.74, ], 665, color='black', s = 90)
@@ -132,8 +132,8 @@ plt.annotate('Run-Out',
              xy=(10.5, 477), xycoords='data',
              xytext=(25, 75), textcoords='offset points', fontsize=22,
              arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.07", linewidth=2))
-plt.annotate('Shut-Off Head',
-             xy=(3.74, 593), xycoords='data',
+plt.annotate('Shut-Off',
+             xy=(3.0, 578.9), xycoords='data',
              xytext=(25, 75), textcoords='offset points', fontsize=22,
              arrowprops=dict(arrowstyle="->", connectionstyle="arc3,rad=.07", linewidth=2))
 
