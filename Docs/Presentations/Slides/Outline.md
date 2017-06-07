@@ -5,20 +5,13 @@
 
 ---
 
-2. **Problem description** @JordParma
-
-- Motivation: Why should we care	
-	- Rockets are hard:
-	- The rocket equation and why we care so much about mass
-- Project Objective Statement: Goal in a nutshell
+2. **Problem description** @jaluce
 
 ##### Slides:
 
-- [ ] Who is PSAS and what is their goal / Rockets are hard
-	- Its dangerous to go alone take this:
-		![alt text](https://github.com/psas/electric-feed-system/blob/master/Docs/Presentations/Slides/Images/Diag-1.PNG)
-- [ ] Blowdowns dont scale, turbines are too complex. Lets use a battery and a DC motor
-- [ ] To achieve this goal we need new technology
+- [x] The problem: getting rockets to go higher (the rocket equation)
+- [x] normally solid fuel, and problems with liquid fuel solutions
+- [x] electric motor pump a good solution (battery energy density, etc)
 
 ---
 
@@ -118,7 +111,7 @@ Subsystems breakdown:
 - [ ] What does it mean? Did we hit our mark?
 
 ---
-8. **Biggest challenges and solutions** @jtalik
+8. **Biggest challenges and solutions** @jaluce
 - Show one or at most two big problems that you overcame
 
 PROBLEM: Designing, manufacturing, and testing a pump in-house
