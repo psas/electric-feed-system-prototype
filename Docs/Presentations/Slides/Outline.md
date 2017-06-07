@@ -118,7 +118,8 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-- [ ] Introduction to challenges of designing, manufacturing, and testing a high speed, high head, low flow pump in-house 
+- [ ] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
+- [ ] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic of critical surfaces
 - [ ] Casing Design  
 	Problems: 
 	- High RPMS / High Pressure
