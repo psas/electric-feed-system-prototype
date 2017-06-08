@@ -30,7 +30,7 @@ small things to change:
 
 ##### Slides:
 
-- [ ] Outline high level reqs. (Words in tables)
+- [x] Outline high level reqs. (Words in tables)
 - [ ] What makes them important to the success of the project. 
 
 
