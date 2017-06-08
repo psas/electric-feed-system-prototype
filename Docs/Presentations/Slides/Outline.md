@@ -104,6 +104,18 @@ Subsystems breakdown:
 - [ ] Show a high level conceptual slide of how the pump works. Pressure/flow transfer etc. (I FUGGIN GOT DIS BOIS)
  
 ---
+8. **Biggest challenges and solutions** @luceja
+- Show one or at most two big problems that you overcame
+
+PROBLEM: Designing, manufacturing, and testing a pump in-house
+
+##### Slides:
+
+- [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
+- [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
+- [ ] dynamometer problem and design
+
+---
 
 7. **Final performance vs. Key Customer requirements** @JordParma
 
@@ -118,18 +130,6 @@ Subsystems breakdown:
 
 - [ ] What does it mean? Did we hit our mark?
 
----
-8. **Biggest challenges and solutions** @luceja
-- Show one or at most two big problems that you overcame
-
-PROBLEM: Designing, manufacturing, and testing a pump in-house
-
-##### Slides:
-
-- [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
-- [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
-- [ ] dynamometer problem and design
-	
 ---
 
 9. **Conclusion – Recap your story** @luceja
