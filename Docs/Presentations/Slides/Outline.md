@@ -155,16 +155,15 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 	
 ---
 
-9. **Conclusion – Recap your story** @jtalik
+9. **Conclusion – Recap your story** @luceja
 
 - Where you started – Customer requirements
 - Where you ended – proof of satisfying customer requirements
 
 ##### Slides:
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] intiial requirements are met (repeat earlier slide with results checked)
+- [ ] results matched theory: the design is valid and can be scaled for psas use
 
 ---
 
@@ -176,15 +175,12 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-- [ ] Note about ongoing testing and results to come.
-- [ ] What we learned? COT DAMN. We need to compress this.
+- [ ] ongoing h2o testing: 
+	- further testing of the variables we have control over
+	- thorough data analysis
+	- possibly additional variables to control (what is ideal diffuser, impeller)
+- [ ] scaling and cryo/flight ready design
 
-- [ ] Future work slide
-	- Further performance improvement investigation. Speed, impeller trim, etc,.
-	- Revamp for cryo LN2 tests
-	- Integrate with liquid engine test stand for LOX testing
-	- VFD
-	- 8 kN scaling
 ---
 
 
