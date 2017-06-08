@@ -1,5 +1,11 @@
 ## Story: 
 
+small things to change:
+ - match colors on plots from example to performance curve
+ - update load cell and RPM on measurements slide, not homebrew optical, one pressure picture
+ - on literature review, show impellers in a simpler manner? maybe actually use final cad images there?
+ - 
+
 1. **Brief team introduction** 
 - [ ] Title Slide, Team members introduce stuff
 
