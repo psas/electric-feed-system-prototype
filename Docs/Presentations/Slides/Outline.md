@@ -8,7 +8,7 @@ small things to change:
 
 ---
 
-1. **Brief team introduction** 
+1. **Brief team introduction** @luceja
 - [ ] Title Slide, Team members introduce stuff
 
 ---
