@@ -20,6 +20,7 @@ small things to change:
 - [x] The problem: getting rockets to go higher (the rocket equation)
 - [x] normally solid fuel, and problems with liquid fuel solutions
 - [x] electric motor pump a good solution (battery energy density, etc)
+- [ ] show piglet.. this is how we do it
 
 ---
 
