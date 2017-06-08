@@ -19,8 +19,7 @@ small things to change:
 
 - [x] The problem: getting rockets to go higher (the rocket equation)
 - [x] normally solid fuel, and problems with liquid fuel solutions
-- [x] electric motor pump a good solution (battery energy density, etc)
-- [ ] show piglet.. this is how we do it
+- [x] electric motor pump a good solution (battery energy density, etc), show piglet idea
 
 ---
 
@@ -114,7 +113,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 - [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
 - [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
-- [ ] dynamometer problem and design
+- [x] dynamometer problem and design
 
 ---
 
