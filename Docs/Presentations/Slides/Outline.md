@@ -1,6 +1,14 @@
 ## Story: 
 
-1. **Brief team introduction** 
+small things to change:
+ - match colors on plots from example to performance curve
+ - update load cell and RPM on measurements slide, not homebrew optical, one pressure picture
+ - on literature review, show impellers in a simpler manner? maybe actually use final cad images there?
+ - requirements wrong on requirements slide
+
+---
+
+1. **Brief team introduction** @luceja
 - [ ] Title Slide, Team members introduce stuff
 
 ---
@@ -11,7 +19,7 @@
 
 - [x] The problem: getting rockets to go higher (the rocket equation)
 - [x] normally solid fuel, and problems with liquid fuel solutions
-- [x] electric motor pump a good solution (battery energy density, etc)
+- [x] electric motor pump a good solution (battery energy density, etc), show piglet idea
 
 ---
 
@@ -96,6 +104,18 @@ Subsystems breakdown:
 - [ ] Show a high level conceptual slide of how the pump works. Pressure/flow transfer etc. (I FUGGIN GOT DIS BOIS)
  
 ---
+8. **Biggest challenges and solutions** @luceja
+- Show one or at most two big problems that you overcame
+
+PROBLEM: Designing, manufacturing, and testing a pump in-house
+
+##### Slides:
+
+- [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
+- [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
+- [x] dynamometer problem and design
+
+---
 
 7. **Final performance vs. Key Customer requirements** @JordParma
 
@@ -111,60 +131,16 @@ Subsystems breakdown:
 - [ ] What does it mean? Did we hit our mark?
 
 ---
-8. **Biggest challenges and solutions** @luceja
-- Show one or at most two big problems that you overcame
 
-PROBLEM: Designing, manufacturing, and testing a pump in-house
-
-##### Slides:
-
-- [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
-- [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
-- [ ] Casing Design  
-	Problems: 
-	- High RPMS / High Pressure
-	- Alignment / Clearances / Fits 
-	- Percision execution
-
-	Solutions: 
-	- Bearing Arrangment and Selection
-		- Canteliever Bearing Arragnement 
-		A double row, angular contact bearing fixed  in the housing and the shaft, towards the drive side of the saft provides axial and radial support for the shaft. 
-		A single row, deep groove bearing fixed to the shaft, but with axial displacement enabled, provides radial support of the shaft. Due to the enabled axial displacment, angluar dislacement is elminatied, while shaft displacement can be accounted for, minimizing the stesses in the shaft. 
-
-	- In-House Manufacturing 
-		- Learning techniques for achieving alignment: Jig 
-		- CAM software: Mastercam
-		- CNC: 3 axis and Lathe
-		
-	- [ ] Include the picture of the quarter section
-	- [ ] Include the picture of John and Kris on the CNC Hass
-	- [ ] Include picture of James on the CNC Lathe 
-			
-- [ ] Controls / Measurement
-	Problems:
-	- Motor control 
-	- Sensing and measuring for preformance curves
-		- 3 x Pressure, Temperature, RPM, Torque, Flowrates
-		
-	Solutions:
-	- Rigged the quadcotper control with tricking the reciever/transiever
-	- Arduino DAQ
-
-	- [ ] include picture of the Motor Controller 
-	
----
-
-9. **Conclusion – Recap your story** @jtalik
+9. **Conclusion – Recap your story** @luceja
 
 - Where you started – Customer requirements
 - Where you ended – proof of satisfying customer requirements
 
 ##### Slides:
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] intiial requirements are met (repeat earlier slide with results checked)
+- [ ] results matched theory: the design is valid and can be scaled for psas use
 
 ---
 
@@ -176,15 +152,12 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 ##### Slides:
 
-- [ ] Note about ongoing testing and results to come.
-- [ ] What we learned? COT DAMN. We need to compress this.
+- [ ] ongoing h2o testing: 
+	- further testing of the variables we have control over
+	- thorough data analysis
+	- possibly additional variables to control (what is ideal diffuser, impeller)
+- [ ] scaling and cryo/flight ready design
 
-- [ ] Future work slide
-	- Further performance improvement investigation. Speed, impeller trim, etc,.
-	- Revamp for cryo LN2 tests
-	- Integrate with liquid engine test stand for LOX testing
-	- VFD
-	- 8 kN scaling
 ---
 
 
