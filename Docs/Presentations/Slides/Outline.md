@@ -4,7 +4,9 @@ small things to change:
  - match colors on plots from example to performance curve
  - update load cell and RPM on measurements slide, not homebrew optical, one pressure picture
  - on literature review, show impellers in a simpler manner? maybe actually use final cad images there?
- - 
+ - requirements wrong on requirements slide
+
+---
 
 1. **Brief team introduction** 
 - [ ] Title Slide, Team members introduce stuff
@@ -126,38 +128,7 @@ PROBLEM: Designing, manufacturing, and testing a pump in-house
 
 - [x] Requirements meant that off shelf designs or parts (impellers, etc) wouldn't be usable.. have to make everything (graphic of parts that we had to make)
 - [x] The level of precision (concentricity and lengths) was critical (rpms, loads, vibration)... graphic series of impeller and housing > shaft > everything
-- [ ] Casing Design  
-	Problems: 
-	- High RPMS / High Pressure
-	- Alignment / Clearances / Fits 
-	- Percision execution
-
-	Solutions: 
-	- Bearing Arrangment and Selection
-		- Canteliever Bearing Arragnement 
-		A double row, angular contact bearing fixed  in the housing and the shaft, towards the drive side of the saft provides axial and radial support for the shaft. 
-		A single row, deep groove bearing fixed to the shaft, but with axial displacement enabled, provides radial support of the shaft. Due to the enabled axial displacment, angluar dislacement is elminatied, while shaft displacement can be accounted for, minimizing the stesses in the shaft. 
-
-	- In-House Manufacturing 
-		- Learning techniques for achieving alignment: Jig 
-		- CAM software: Mastercam
-		- CNC: 3 axis and Lathe
-		
-	- [ ] Include the picture of the quarter section
-	- [ ] Include the picture of John and Kris on the CNC Hass
-	- [ ] Include picture of James on the CNC Lathe 
-			
-- [ ] Controls / Measurement
-	Problems:
-	- Motor control 
-	- Sensing and measuring for preformance curves
-		- 3 x Pressure, Temperature, RPM, Torque, Flowrates
-		
-	Solutions:
-	- Rigged the quadcotper control with tricking the reciever/transiever
-	- Arduino DAQ
-
-	- [ ] include picture of the Motor Controller 
+- [ ] dynamometer problem and design
 	
 ---
 
