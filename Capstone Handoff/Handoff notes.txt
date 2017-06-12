@@ -1,0 +1,18 @@
+Present design:
+	Overview of design features
+	Individual component analysis
+	Subsystems
+		Mechanical
+		Electrical
+		Controls
+		Working fluid delivery
+	
+Design overview questions:
+
+Future work:
+	Rework electrical to accomodate more continuous testing
+		Power supply?
+		Better batteries?
+	Rework controls for more reliable testing at higher RPM
+		Further separation between operators and test stand
+		Hide the rats nest somewhere...
