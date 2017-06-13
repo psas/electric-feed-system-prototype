@@ -13,6 +13,7 @@ Future work:
 	Rework electrical to accomodate more continuous testing
 		Power supply?
 		Better batteries?
+		New motor (custom job?)
 	Rework controls for more reliable testing at higher RPM
 		Further separation between operators and test stand
 		Hide the rats nest somewhere...
