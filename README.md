@@ -17,7 +17,7 @@ Electric feed system (EFS) aims to design, build, and test an electric feed syst
 7. Harness the following documentation:
     - EFS testing, handling, and troubleshooting procedures
     - EFS Design Methodology & Design Process
-    - Complete bill of materials
+    - Complete bill of materials man
 
 ## Stretch Goals:
 
