@@ -138,3 +138,4 @@
 "m8 tap" = 0.265625in		'this is 17/64 for 6.746875mm
 "m8 head bore diameter" = 14mm
 "m8 head bore depth" = 9mm	'actual is 8mm
+'m8 head bore depth" = 9mm	'actual is 8mm
