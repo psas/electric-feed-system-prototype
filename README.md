@@ -32,11 +32,13 @@ Electric feed system (EFS) aims to design, build, and test an electric feed syst
 Name                | GitHub Username | Current Role
 --------------------|-----------------|-----------------------------------
 Johnny C. Froehlich | @JordParma      | Team Lead; Design Engineer; Analysis; Testing
-Johnathan Talik     | @jtalik         | Manufacturing Engineer; Testing
-James A. Luce       | @luceja         | Thermal/fluids Engineer; Controls systems
+James A. Luce       | @luceja         | Mechanical Design Lead; Control Systems
+Johnathan Talik     | @jtalik         | Fabrication 
 Rawand Rasheed      | @rawand12       | Control Systems
 Jordan Roland       | @JSRoland       | Add project role
 Mimi Shang          | @mimishang      | Add project role
+
+
 
 ### Important links
 
